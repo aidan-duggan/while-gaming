@@ -1,21 +1,17 @@
-title: Stackbit Fresh Theme
+title: While Gaming
 baseurl: /
 permalink: '/:title/'
 layout_style: overflow
 palette: blue
 header:
-  title: Stackbit Fresh
-  tagline: Header Tagline
+  title: While ( Gaming )
+  tagline: My Adventures in Gaming
   profile_img: images/avatar.png
   bg: dark
   has_nav: true
   has_social: true
 footer:
-  content: '&copy; All rights reserved.'
-  links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
+  content: ''
 sass:
   indentWidth: 4
   style: nested
