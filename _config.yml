@@ -35,3 +35,5 @@ exclude:
 collections:
   posts:
     permalink: 'posts/:title'
+  games:
+    permalink: 'games/:title'
