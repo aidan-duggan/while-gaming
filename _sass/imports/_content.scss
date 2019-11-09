@@ -35,7 +35,8 @@
   margin-bottom: 1.66667em;
 
   img {
-    width: 100%;
+    width: 500px;
+    text-align: center;
   }
 }
 
@@ -92,8 +93,7 @@
     display: block;
     margin: 0;
     position: relative;
-    width: 500px;
-    text-align: center
+    width: 100%;
 
     &:before {
       content: "";
