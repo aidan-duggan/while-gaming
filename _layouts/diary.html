@@ -1,0 +1,20 @@
+---
+layout: body
+---
+<div>
+  {% for game in site.games reversed %} 
+    <div style="display:inline-block;vertical-align:top;margin:30px;max-width:40%">
+    <a href="{{ site.url }}/images/{{ game.localImage }}"><img src="{{ site.url }}/images/{{ game.localImage }}" width=200>
+      </img></a>
+</div>
+<div style="display:inline-block;max-width:60%">
+  <p>
+     <b style="font-size:18px;">{{ game.game }}</b>
+    <br><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}
+        <br><b>Players:</b> {{ game.players }}
+       <br><b>Position:</b> {{ game.position }}
+       <br><i>{{ game.opinion }}</i></p>
+   </div>  
+<br></br>
+  {% endfor %}
+</div>
