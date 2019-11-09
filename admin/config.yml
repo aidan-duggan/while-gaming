@@ -428,7 +428,7 @@ collections:
     files:
       - name: contact
         label: Contact
-        file: contact.md
+        file: _pages/contact.md
         fields:
           - widget: string
             name: title
