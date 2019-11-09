@@ -15,7 +15,7 @@ layout: body
     {% assign content_img_path_is_not_empty = page.content_img_path | is_not_empty %}
     {% if content_img_path_is_not_empty %}
     <div class="post-thumbnail">
-      <img src="{{ page.content_img_path | relative_url }}" alt="{{ page.title }}" />
+      <img src="{{ page.content_img_path | relative_url }}" alt="{{ page.title }}" width="500" />
     </div><!-- .post-thumbnail -->
     {% endif %}
     <div class="post-content">
