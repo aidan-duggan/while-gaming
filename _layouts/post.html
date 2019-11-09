@@ -27,19 +27,15 @@ layout: body
     </footer><!-- .post-meta -->
   </article><!-- .post -->
 
-<div class="row">
-  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-    <ul class="pager blog-pager">
+  <div >
       {% if page.previous.url %}
-      <li class="previous">
+      <li class="block-cta">
         <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; {{page.previous.title}}</a>
       </li>
       {% endif %}
       {% if page.next.url %}
-      <li class="next">
+      <li class="block-cta">
         <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">{{page.next.title}} &rarr;</a>
       </li>
       {% endif %}
-    </ul>
-  </div>
 </div>
