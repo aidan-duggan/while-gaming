@@ -4,13 +4,19 @@
             "type": "github",
             "title": "GitHub",
             "icon": "fa-github",
-            "url": "https://github.com/"
+            "url": "https://github.com/aidan-duggan"
         },
         {
             "type": "linkedin",
             "title": "LinkedIn",
             "icon": "fa-linkedin",
-            "url": "https://www.linkedin.com/"
+            "url": "https://www.linkedin.com/in/aidan-duggan-eng/"
+        },
+        {
+            "type": "personnal",
+            "title": "Personnal",
+            "icon": "fa-address-card",
+            "url": "https://aidan-duggan.github.io/about/"
         }
     ]
 }
