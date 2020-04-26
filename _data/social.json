@@ -15,7 +15,7 @@
         {
             "type": "personnal",
             "title": "Personnal",
-            "icon": "fa-address-card",
+            "icon": "fa-user",
             "url": "https://aidan-duggan.github.io/about/"
         }
     ]
