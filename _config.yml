@@ -2,6 +2,7 @@ title: While Gaming
 baseurl: /
 permalink: '/:title/'
 layout_style: overflow
+publish_mode: editorial_workflow
 palette: blue
 header:
   title: While ( Gaming )
