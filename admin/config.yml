@@ -208,6 +208,10 @@ collections:
       - widget: string
         name: imageText
         label: imageText
+      - widget: image
+        name: image
+        label: Image
+        required: false
   - name: home
     label: Home
     files:
