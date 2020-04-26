@@ -587,6 +587,9 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
       - widget: string
+        name: type
+        label: type
+      - widget: string
         name: title
         label: Title
         required: true
