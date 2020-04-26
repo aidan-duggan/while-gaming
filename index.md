@@ -2,9 +2,8 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: >-
-      Here is where I record my experience boardgaming as well as other sundry,
-      enjoy.
+    content: I started this blog to share my thoughts on boardgaming and to practice
+      some of software development skills.
     section_id: hero
     type: heroblock
   - actions:
@@ -21,4 +20,3 @@ menus:
     weight: 1
 layout: home
 ---
-
