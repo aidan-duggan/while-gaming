@@ -183,6 +183,31 @@ collections:
             name: avatar
             label: Avatar
             required: false
+  - name: games
+    label: Game Diary
+    files:
+      - name: games
+        label: Game Diary
+        folder: _games
+        fields:
+          - widget: string
+            name: game
+            label: game
+          - widget: string
+            name: players
+            label: players
+          - widget: string
+            name: position
+            label: position
+          - widget: string
+            name: opinion
+            label: opinion
+          - widget: string
+            name: localImage
+            label: localImage
+          - widget: string
+            name: imageText
+            label: imageText
   - name: home
     label: Home
     files:
