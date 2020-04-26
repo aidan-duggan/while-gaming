@@ -3,6 +3,7 @@ title: "An Experiement: Boardgame Design Diary"
 subtitle: How to better encouarge myself to progress on my game
 date: 2020-04-26T12:29:01.687Z
 thumb_img_path: /images/g-w-t-v2.png
+content_img_path: /images/g-w-t-v2.png
 layout: post
 ---
 ##### Where have I been?
