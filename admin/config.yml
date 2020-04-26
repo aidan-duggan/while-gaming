@@ -634,39 +634,4 @@ collections:
     filter:
       field: layout
       value: post
-  - name: site_menus
-    label: Site Menus
-    files:
-      - name: site_menus
-        label: Site Menus
-        file: _data/menus.yml
-        fields:
-          - widget: list
-            name: main
-            label: Main menu
-            required: false
-            hint: List of items for Main menu
-            fields:
-              - widget: string
-                name: identifier
-                label: Identifier
-                required: true
-                hint: >-
-                  The identifier of a menu item could be used as a parent menu
-                  of another menu item
-              - widget: string
-                name: title
-                label: Title
-                required: true
-                hint: The title of the menu item
-              - widget: string
-                name: url
-                label: URL
-                required: true
-                hint: The URL the menu item links to
-              - widget: number
-                name: weight
-                label: Weight
-                required: false
-                hint: Position for sorting
-                valueType: int
+  
