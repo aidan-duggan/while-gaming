@@ -3,7 +3,7 @@ title: Home
 sections:
   - component: hero_block.html
     content: I started this blog to share my thoughts on boardgaming and to practice
-      some of software development skills.
+      some of software development skills. I hope you enjoy it!
     section_id: hero
     type: heroblock
   - actions:
