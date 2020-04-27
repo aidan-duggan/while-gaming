@@ -18,18 +18,16 @@ layout: body
 <br></br>
   {% endfor %}
 
+  
+
 {% if paginator.total_pages > 1 %}
-<ul>
+<p class="block-cta">
   {% if paginator.previous_page %}
-  <li>
-    <a href="{{ paginator.previous_page_path | prepend: site.url }}">Newer</a>
-  </li>
-  {% endif %}
+        <a class="button" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="Older Entries">&larr; Older Entries</a>
+      {% endif %}
   {% if paginator.next_page %}
-  <li>
-    <a href="{{ paginator.next_page_path | prepend: site.url }}">Older</a>
-  </li>
-  {% endif %}
-</ul>
+        <a class="button"  href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="Newer Entries">Newer Entries &rarr;</a>
+      {% endif %}
+</p>
 {% endif %}
 </div>
