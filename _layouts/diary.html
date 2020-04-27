@@ -10,8 +10,13 @@ layout: body
 <div>
   {% for game in paginator.posts %}
     <div style="display:inline-block;vertical-align:top;margin:30px;max-width:40%">
+      {% if game.localImage %}
     <a href="{{ site.url }}/images/{{ game.localImage }}"><img src="{{ site.url }}/images/{{ game.localImage }}" width=200>
       </img></a>
+      {% elseif %}
+    <a href="{{ page.content_img_path | relative_url }}"><img src="{{ page.content_img_path | relative_url }}" width=200>
+      </img></a>
+      {% endif %}
 </div>
 <div style="display:inline-block;max-width:60%">
   <p>
