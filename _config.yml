@@ -10,6 +10,16 @@ header:
   bg: dark
   has_nav: true
   has_social: true
+menu:
+  - title: home
+    url: index.html
+  - title: blog
+    url: blog.html
+  - title: game diary
+    url: diary/index.html
+  - title: contact
+    url: contact.html
+    
 footer:
   content: ''
 sass:
