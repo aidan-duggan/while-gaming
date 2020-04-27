@@ -7,8 +7,8 @@ menus:
 layout: diary
 sections:
   - component: hero_block.html
-    content: I started this blog to share my thoughts on boardgaming and to practice
-      some of my software development skills. I hope you enjoy it!
+    title: Game Diary
+    content: Originally I was going to record every (/posts/diary)[game I played] but that proved time consuming. Now I record my plays using (https://www.bgstatsapp.com/)[BG Stats]. So I'll use this to highlight specific plays I found particular fun or interesting.
     section_id: hero
     type: heroblock
 pagination: 
