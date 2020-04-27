@@ -22,12 +22,12 @@ layout: body
 <ul>
   {% if paginator.previous_page %}
   <li>
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.url }}">Newer</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li>
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+    <a href="{{ paginator.next_page_path | prepend: site.url }}">Older</a>
   </li>
   {% endif %}
 </ul>
