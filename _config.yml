@@ -37,3 +37,13 @@ collections:
     permalink: 'posts/:title'
   games:
     permalink: 'games/:title'
+pagination:
+  enabled: true
+  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/page/:num/' 
+  limit: 0
+  extension: html
+  indexpage: 'index'
