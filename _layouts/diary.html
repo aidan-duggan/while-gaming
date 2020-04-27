@@ -1,10 +1,12 @@
 ---
 layout: body
 ---
-{% for section in page.sections %}
+<h2 class="hero-title">Game Diary</h2>
   
-  {% include {{ section.component }} section=section site=site %}
-{% endfor %}
+  <div class="hero-text">
+    <p>Originally I was going to record every <a href="/posts/diary">game I played</a> but that proved time consuming. Now I record my plays using <a href="https://www.bgstatsapp.com/">BG Stats</a>. So I’ll use this to highlight specific plays I found particular fun or interesting.</p>
+
+  </div>
 <div>
   {% for game in paginator.posts %}
     <div style="display:inline-block;vertical-align:top;margin:30px;max-width:40%">
