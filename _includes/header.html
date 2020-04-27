@@ -30,7 +30,7 @@
         <div class="site-nav-wrap">
           <div class="site-nav-inside">
             <ul class="menu">
-              {% for item in site.menus.main %}
+              {% for item in site.menu %}
               <li class="menu-item {% if page.url == item.url %} current-menu-item{% endif %}">
                 <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
               </li>
