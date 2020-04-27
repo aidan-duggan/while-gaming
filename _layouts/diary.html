@@ -1,8 +1,12 @@
 ---
-layout: body
+layout: page
+title: Game Diary
+pagination: 
+  enabled: true
+  collection: games
 ---
 <div>
-  {% for game in site.games reversed %} 
+  {% for game in paginator.posts %}
     <div style="display:inline-block;vertical-align:top;margin:30px;max-width:40%">
     <a href="{{ site.url }}/images/{{ game.localImage }}"><img src="{{ site.url }}/images/{{ game.localImage }}" width=200>
       </img></a>
@@ -17,4 +21,19 @@ layout: body
    </div>  
 <br></br>
   {% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<ul>
+  {% if paginator.previous_page %}
+  <li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
 </div>
