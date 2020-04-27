@@ -13,8 +13,8 @@ layout: body
       {% if game.localImage %}
     <a href="{{ site.url }}/images/{{ game.localImage }}"><img src="{{ site.url }}/images/{{ game.localImage }}" width=200>
       </img></a>
-      {% elsif %}
-    <a href="{{ page.content_img_path | relative_url }}"><img src="{{ page.content_img_path | relative_url }}" width=200>
+      {% elsif game.image %}
+    <a href="{{ game.image | relative_url }}"><img src="{{ game.image | relative_url }}" width=200>
       </img></a>
       {% endif %}
 </div>
