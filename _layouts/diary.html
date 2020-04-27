@@ -23,10 +23,10 @@ layout: body
 {% if paginator.total_pages > 1 %}
 <p class="block-cta">
   {% if paginator.previous_page %}
-        <a class="button" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="Older Entries">&larr; Older Entries</a>
+        <a class="button" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="Newer Entries">&larr; Newer Entries</a>
       {% endif %}
   {% if paginator.next_page %}
-        <a class="button"  href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="Newer Entries">Newer Entries &rarr;</a>
+        <a class="button"  href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="Older Entries">Older Entries &rarr;</a>
       {% endif %}
 </p>
 {% endif %}
