@@ -189,7 +189,7 @@ collections:
     folder: _games
     create: true
     extension: md
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{game}}'
     fields:
       - widget: string
         name: game
