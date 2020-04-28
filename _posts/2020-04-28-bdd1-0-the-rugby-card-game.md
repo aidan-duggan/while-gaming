@@ -2,7 +2,7 @@
 type: BDD1
 title: BDD1.0 The Rugby Card Game
 subtitle: Lets kick of the boardgame design diary for my Rugby Card Game.
-date: 2020-04-27T16:14:45.623Z
+date: 2020-04-28T16:14:45.623Z
 thumb_img_path: /images/DSC_0209.JPG
 content_img_path: /images/DSC_0209.JPG
 excerpt: "I've blogged about my idea for a Rugby boardgame. In that post, I
@@ -20,4 +20,13 @@ I've blogged about my idea for a [Rugby boardgame](posts/idea3). In that post, I
 
 **Starting a Diary**
 
-To focus myself on moving this idea towards something, I'm going to try running a [boardgame design diary](posts/an-experiement-boardgame-design-diary) for this idea on this blog.
+To focus myself on moving this idea towards something, I'm going to try running a [boardgame design diary](posts/an-experiement-boardgame-design-diary) for this idea on this blog. I've some ideas on how to progress, so want to start getting them down. 
+
+**The Mission**
+
+Get to a 'working' prototype of a rugby card game. Something with a win condition, actions that move players to winning, and some player choice.
+
+**Next Steps**
+
+* Create a living document for the rules, so I can start recording them.
+* Write a diary entry for the core mechanices
