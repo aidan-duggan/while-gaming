@@ -619,41 +619,6 @@ collections:
         label: Excerpt
         required: false
         hint: The excerpt of the post displayed in the blog feed.
-      - widget: image
-        name: canonical_url
-        label: Canonical URL
-        required: false
-        hint: 'The canonical url of the post, if post originates elsewhere.'
-      - widget: object
-        name: menus
-        label: Post Menus
-        required: false
-        hint: Which menus should this page show up in
-        fields:
-          - widget: object
-            name: main
-            label: Main menu item
-            required: false
-            hint: Main menu item for this page
-            fields:
-              - widget: string
-                name: title
-                label: Title
-                required: false
-                hint: The title of the menu item
-              - widget: number
-                name: weight
-                label: Weight
-                required: false
-                hint: Position for sorting
-                valueType: int
-              - widget: string
-                name: identifier
-                label: Identifier
-                required: false
-                hint: >-
-                  The identifier of a menu item could be used as a parent menu
-                  of another menu item
       - widget: hidden
         name: layout
         label: Layout
