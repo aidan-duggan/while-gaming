@@ -617,7 +617,6 @@ collections:
       - widget: string
         name: excerpt
         label: Excerpt
-        required: false
         hint: The excerpt of the post displayed in the blog feed.
       - widget: hidden
         name: layout
