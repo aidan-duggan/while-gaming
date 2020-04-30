@@ -19,4 +19,10 @@ I've decided to use a variation of 21/Blackjack. Players will have cards with di
 
 For the positional play, I've been trying to figure how to resolve this in a way that is quick and easy to understand. Tracking the location of each player, and moving them every turn felt like too much. I thought about 7s variant so there was less to manage but I still feel that its too fiddly.
 
-I had an inspiration that there was no need to track where players are at all times, instead tracking where players were
+I had an inspiration that there was no need to track where players are at all times, instead tracking where players were. The options are limited based on previous plays. This allows players to strategize about what cards to play, both offensively and defensively.
+
+This will be the came resolves around two decks of cards, one for deciding what is being attempted and the result, and the other for success or failure. 
+
+I need to determine the best composition of the decks, enough that there is choice but not too much that the best option is always obvious. Then I need to figure out how players get more cards. This part I think is a good opportunity to highlight how fast paced Rugby can be and the risk reward that comes with faster back's play vs more slow but steady forward play.
+
+**Next Steps**
