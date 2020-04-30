@@ -2,7 +2,7 @@
 type: BDD1
 title: "RCG Diary #1 Laying down the framework"
 subtitle: For my first diary entry I'll outline the core mechanics of the game.
-date: 2020-04-30T14:04:03.607Z
+date: 2020-04-30T12:04:03.607Z
 thumb_img_path: /images/rugbyplaycardexample.png
 content_img_path: /images/rugbyplaycardexample.png
 excerpt: The first step is laying out the rules in a document so I can easily iterate on them. This will help me build up the picture of how it will all work. I've started that here. At time of writing its just what I think the components will be. You can read the laws of rugby to get a better idea of what I'm trying to model.
