@@ -42,8 +42,14 @@ Rugby generally restarts play with what is called a [Set Piece](https://www.pred
 * The Attack draws an new Play card and goes again.
 * Played Skill cards are not available straight away.
 
-As mentioned, the idea here is that the attacker and defender are trying to figure out who has the better draw of cards. With the attacker running a number of Play. After
+As mentioned, the idea here is that the attacker and defender are trying to figure out who has the better draw of cards. With the attacker running a number of Play until either scoring or giving away the ball. 
 
+**Whats left to do**
 
+I have a few things that still need to be determined before I can start playing through a proto type to see if it all works. 
 
-Whats left to do
+* Figure out how exactly and odds of possession changing.
+* Figure out how to track time.
+* Figure out how the odds of scoring a penalty works.
+
+My hope is that at least prototyping a more fully defined game will give me a base to iterate and improve things quickly, even if it leads to a radically different game in the end. Something I generally struggle with seeing if my game actually presents meaningful choices or not.
