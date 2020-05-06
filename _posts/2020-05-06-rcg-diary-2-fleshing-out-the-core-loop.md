@@ -39,8 +39,10 @@ Rugby generally restarts play with what is called a [Set Piece](https://www.pred
 * Attacker then chooses a Play card. 
 * Both players secretly choose the Skill cards they want to commit.
 * The play is resolved, moving play forward or back or changing possession.
-* 
+* The Attack draws an new Play card and goes again.
 * Played Skill cards are not available straight away.
+
+As mentioned, the idea here is that the attacker and defender are trying to figure out who has the better draw of cards. With the attacker running a number of Play. After
 
 
 
