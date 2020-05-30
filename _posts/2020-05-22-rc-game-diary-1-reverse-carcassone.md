@@ -21,7 +21,7 @@ I was sweeping the floor of my kitchen one day, and it occurred to me how relaxi
 
 **Rules**
 
-I drafted up a \[quick set of rules](https://github.com/aidan-duggan/ReverseCarcassonne/blob/master/rules.md), using Carcassonne tiles and scoring as the bases. Players would compete over a grid of 81 tiles, taking control of a tile at a time, provided the controlling tiles obeyed Carcassonne placement rules. 
+I drafted up a [quick set of rules](https://github.com/aidan-duggan/ReverseCarcassonne/blob/master/rules.md), using Carcassonne tiles and scoring as the bases. Players would compete over a grid of 81 tiles, taking control of a tile at a time, provided the controlling tiles obeyed Carcassonne placement rules. 
 
 For determining the actions the players can take, I want to try using the dice action mechanic from Tiny Epic Galaxies. Players roll dice (with some options to re-roll), and get to perform those actions. I really like this mechanic as it combine some randomness, some push your luck, without the risk that the action player takes itself might fail (roll to succeed style).
 
