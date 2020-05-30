@@ -11,7 +11,7 @@ excerpt: Hot off the back of building my first board game prototype, I had an
   already down and players were picking them up.
 layout: post
 ---
-Hot off the back of building my first board game prototype, I had an idea for another game. While playing Carcassonne online with my friends, I wondered what it would be like to play Carcassonne in reverse. Where the tiles were already down and players were picking them up.
+Hot off the back of building my first board game prototype, I had an idea for another game. While playing Carcassonne online with my friends, I wondered what it would be like to play Carcassonne in reverse. Where the tiles were already down and players were picking them up. 
 
 **Ideation**
 
