@@ -3,7 +3,10 @@ type: BDD2
 title: "RC Game Diary #1: Reverse Carcassone"
 subtitle: "Botton up design: A new game idea starting from mechanics"
 date: 2020-05-22T14:52:16.595Z
-excerpt: ferfer
+excerpt: Hot off the back of building my first board game prototype, I had an
+  idea for a game. While playing Carcassone online with my friends, I wondered
+  what it would be like to play Carcassone in reverse. Where the tiles were
+  already down and players were picking them up.
 layout: post
 ---
 Hot of the back of building my first board game prototype, I had an idea for a game. While playing Carcassone online with my friends, I wondered what it would be like to play Carcassone in reverse. Where the tiles were already down and players were picking them up.
