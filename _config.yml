@@ -1,5 +1,6 @@
 title: While Gaming
 baseurl: /
+url: https://while-gaming-493f5.netlify.app
 permalink: '/:title/'
 layout_style: overflow
 palette: blue
