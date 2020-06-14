@@ -18,6 +18,12 @@ menu:
     url: blog.html
   - title: game diary
     url: diary/index.html
+  - title: While Gaming
+    url: diary/index.html
+  - title: While Reading
+    url: diary/index.html
+  - title: While Watching
+    url: diary/index.html
   - title: contact
     url: contact.html
     
@@ -48,7 +54,13 @@ collections:
   posts:
     permalink: 'posts/:title'
   games:
-    permalink: 'games/:title'
+    permalink: 'games/:title'  
+  gaming:
+    permalink: 'gaming/:title'
+  reading:
+    permalink: 'reading/:title'
+  watching:
+    permalink: 'watching/:title'
 pagination:
   enabled: true
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
