@@ -184,6 +184,57 @@ collections:
             name: avatar
             label: Avatar
             required: false
+  - name: gaming
+    label: While Gaming
+    folder: _gaming
+    create: true
+    extension: md
+    slug: '{{year}}-{{month}}-{{day}}-{{title}}'
+    fields:
+      - widget: string
+        name: title
+        label: title
+      - widget: string
+        name: opinion
+        label: opinion
+      - widget: image
+        name: image
+        label: Image
+        required: false 
+  - name: reading
+    label: While Reading
+    folder: _reading
+    create: true
+    extension: md
+    slug: '{{year}}-{{month}}-{{day}}-{{title}}'
+    fields:
+      - widget: string
+        name: title
+        label: title
+      - widget: string
+        name: opinion
+        label: opinion
+      - widget: image
+        name: image
+        label: Image
+        required: false 
+  - name: watching
+    label: While Watching
+    folder: _watching
+    create: true
+    extension: md
+    slug: '{{year}}-{{month}}-{{day}}-{{title}}'
+    fields:
+      - widget: string
+        name: title
+        label: title
+      - widget: string
+        name: opinion
+        label: opinion
+      - widget: image
+        name: image
+        label: Image
+        required: false
   - name: games
     label: Game Diary
     folder: _games
