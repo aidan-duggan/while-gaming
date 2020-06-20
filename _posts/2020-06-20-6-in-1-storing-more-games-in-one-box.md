@@ -11,8 +11,6 @@ excerpt: contents. This is often done to make games stand out on store shelves
   they take up more shelf space at home and are harder to bring places.
 layout: post
 ---
-![](/images/img_20200620_171250.jpg)
-
 As many of you might have experienced, boardgame boxes tend to be much bigger then needed for their contents. This is often done to make games stand out on store shelves and to give potential buyers a sense of value for money. Alas it also means they take up more shelf space at home and are harder to bring places.
 
 **What to do?**
@@ -36,6 +34,8 @@ The box now contains:
 **7 Wonders**, deeper drafting game, whose box is a real size offender.    
 
 I'm really happy with the selection, all support a broad range of types of players and play times.
+
+![](/images/img_20200620_171250.jpg)
 
 **Putting it all together**
 
