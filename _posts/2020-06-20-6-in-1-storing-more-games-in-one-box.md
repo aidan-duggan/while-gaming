@@ -11,6 +11,8 @@ excerpt: contents. This is often done to make games stand out on store shelves
   they take up more shelf space at home and are harder to bring places.
 layout: post
 ---
+![](/images/img_20200620_171250.jpg)
+
 As many of you might have experienced, boardgame boxes tend to be much bigger then needed for their contents. This is often done to make games stand out on store shelves and to give potential buyers a sense of value for money. Alas it also means they take up more shelf space at home and are harder to bring places.
 
 **What to do?**
@@ -26,11 +28,11 @@ I don't like to throw away boxes cause I consider the cover art part of the valu
 I looked through the games I like to play whose boxes are generally oversized. Also whose playing board would fit into the settlers box. After a few iterations I settled on a good spread of games that are a mix of light to medium complexity covering 2 up to 7 players. 
 
 The box now contains:
-**Carcassonne**, the classic tile laying game I always enjoy.    
-**Rattus**, I light action selection game about rats that make people horny (it's not the theme but it is how the mechanics work!).   
-**Gravwell**, a drafting game about escaping a black hole.    
-**Citadels**, a role selection game that plays up to 7.    
-**Topiary**, a very relaxing tile laying game.   
+**Carcassonne**, the classic tile laying game I always enjoy.\
+**Rattus**, I light action selection game about rats that make people horny (it's not the theme but it is how the mechanics work!).\
+**Gravwell**, a drafting game about escaping a black hole.\
+**Citadels**, a role selection game that plays up to 7.\
+**Topiary**, a very relaxing tile laying game.\
 **7 Wonders**, deeper drafting game, whose box is a real size offender.    
 
 I'm really happy with the selection, all support a broad range of types of players and play times.
