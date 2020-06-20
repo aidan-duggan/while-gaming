@@ -46,11 +46,7 @@
   .profile {
     .avatar {
       border-color: _palette(accent-blue);
-      box-shadow: 0 0 1px 7px rgba(_palette(accent-blue),.2);
-
-      @media only screen and (min-width: 801px) {
-        box-shadow: 0 0 1px 11px rgba(_palette(accent-blue),.2);
-      }
+      
     }
   }
 
