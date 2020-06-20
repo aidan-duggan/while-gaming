@@ -93,7 +93,8 @@
     display: block;
     margin: 0;
     position: relative;
-    width: 100%;
+    width: 500px;
+    text-align: center;
 
     &:before {
       content: "";
@@ -105,7 +106,8 @@
       border-radius: 5px 5px 0 0;
   object-fit: scale-down;
       left: 0;
-     
+     height: 100%;
+      width: 100%;
       position: absolute;
       top: 0;
  
