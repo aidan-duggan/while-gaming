@@ -27,12 +27,12 @@ I don't like to throw away boxes cause I consider the cover art part of the valu
 
 I looked through the games I like to play whose boxes are generally oversized, while making sure their playing board would fit into the settlers box. After a few iterations I settled on a good spread of games that are a mix of light to medium complexity covering 2 up to 7 players. 
 
-The box contains:\
-**Carcassonne**, the classic tile laying game I always enjoy.\
-**Rattus**, I light action selection game about rats that make people horny (it's not the theme but it is how the mechanics work!).\
-**Gravwell**, a drafting game about escaping a black hole.\
-**Citadels**, a role selection game that plays up to 7.\
-**Topiary**, a very relaxing tile laying game about building a garden.\
+The box contains:</br>
+**Carcassonne**, the classic tile laying game I always enjoy.</br>
+**Rattus**, I light action selection game about rats that make people horny (it's not the theme but it is how the mechanics work!).</br>
+**Gravwell**, a drafting game about escaping a black hole.</br>
+**Citadels**, a role selection game that plays up to 7.</br>
+**Topiary**, a very relaxing tile laying game about building a garden.</br>
 **7 Wonders**, deeper drafting game, whose box is a real size offender.    
 
 I'm really happy with the selection, all support a broad range of types of players and play times.
