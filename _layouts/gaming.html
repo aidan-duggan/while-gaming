@@ -4,26 +4,19 @@ layout: body
 <h2 class="hero-title">While Gaming</h2>
   
   <div class="hero-text">
-    <p>Originally I was going to record every <a href="/posts/diary">game I played</a> but that proved time consuming. Now I record my plays using <a href="https://www.bgstatsapp.com/">BG Stats</a>. So I’ll use this to highlight specific plays I found particular fun or interesting.</p>
+    <p> Here is where I record my one (maybe two) sentence first impressions from each game I play. You can see some previous recording games <a href="/diary">here</a>. </p>
 
   </div>
 <div>
   {% for game in paginator.posts %}
     <div style="display:inline-block;vertical-align:top;margin:30px;max-width:40%">
-      {% if game.localImage %}
-    <a href="{{ site.url }}/images/{{ game.localImage }}"><img src="{{ site.url }}/images/{{ game.localImage }}" width=200>
-      </img></a>
-      {% elsif game.image %}
     <a href="{{ game.image | relative_url }}"><img src="{{ game.image | relative_url }}" width=200>
       </img></a>
-      {% endif %}
 </div>
 <div style="display:inline-block;max-width:60%">
   <p>
      <b style="font-size:18px;">{{ game.game }}</b>
     <br><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}
-        <br><b>Players:</b> {{ game.players }}
-       <br><b>Position:</b> {{ game.position }}
        <br><i>{{ game.opinion }}</i></p>
    </div>  
 <br></br>
