@@ -1,0 +1,37 @@
+---
+layout: body
+---
+<h2 class="hero-title">While Gaming</h2>
+  
+  <div class="hero-text">
+    <p> Here is where I record my one (maybe two) sentence first impressions from each game I play. You can see some previous recording games <a href="/diary">here</a>. </p>
+
+  </div>
+<div>
+  {% for game in paginator.posts %}
+    <div style="display:inline-block;vertical-align:top;margin:30px;max-width:40%">
+    <a href="{{ game.image | relative_url }}"><img src="{{ game.image | relative_url }}" width=200>
+      </img></a>
+</div>
+<div style="display:inline-block;max-width:60%">
+  <p>
+     <b style="font-size:18px;">{{ game.game }}</b>
+    <br><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}
+       <br><i>{{ game.opinion }}</i></p>
+   </div>  
+<br></br>
+  {% endfor %}
+
+  
+
+{% if paginator.total_pages > 1 %}
+<p class="block-cta">
+  {% if paginator.previous_page %}
+        <a class="button" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="Newer Entries">&larr; Newer Entries</a>
+      {% endif %}
+  {% if paginator.next_page %}
+        <a class="button"  href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="Older Entries">Older Entries &rarr;</a>
+      {% endif %}
+</p>
+{% endif %}
+</div>
