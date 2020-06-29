@@ -4,7 +4,7 @@ menus:
   main:
     title: While Gaming
     weight: 5
-layout: diary
+layout: gaming
 pagination: 
   enabled: true
   collection: gaming
