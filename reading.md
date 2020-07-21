@@ -1,10 +1,10 @@
 ---
-title: While Gaming
+title: While Reading
 menus:
   main:
-    title: While Gaming
+    title: While Reading
     weight: 5
-layout: gaming
+layout: reading
 pagination: 
   enabled: true
   collection: reading
