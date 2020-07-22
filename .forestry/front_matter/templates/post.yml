@@ -1,0 +1,28 @@
+---
+label: post
+hide_body: false
+fields:
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: thumb_img_path
+  label: thumb_img_path
+- type: file
+  name: content_img_path
+  label: content_img_path
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: text
+  name: layout
+  label: layout
