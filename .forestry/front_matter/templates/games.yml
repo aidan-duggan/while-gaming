@@ -1,0 +1,19 @@
+---
+label: games
+hide_body: true
+fields:
+- type: text
+  name: game
+  label: game
+- type: number
+  name: players
+  label: players
+- type: number
+  name: position
+  label: position
+- type: textarea
+  name: opinion
+  label: opinion
+- type: file
+  name: localImage
+  label: localImage
