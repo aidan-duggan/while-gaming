@@ -17,3 +17,5 @@ fields:
   config:
     required: false
   label: opinion
+pages:
+- _gaming/undaunted-north-africa.md
