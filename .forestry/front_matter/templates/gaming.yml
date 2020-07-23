@@ -13,9 +13,13 @@ fields:
     maxSize: 64
   label: image
 - name: opinion
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: opinion
 pages:
 - _gaming/undaunted-north-africa.md
