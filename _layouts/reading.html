@@ -15,9 +15,9 @@ layout: body
 </div>
 <div style="display:inline-block;max-width:60%">
   <p>
-     <b style="font-size:18px;">{{ game.game }}</b>
+     <b style="font-size:18px;">Book: </b>{{ game.book }}
     <br><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}
-       <br><i>{{ game.opinion }}</i></p>
+       <br><b style="font-size:18px;">Opinion: </b><i>{{ game.opinion }}</i></p>
    </div>  
 <br></br>
   {% endfor %}
