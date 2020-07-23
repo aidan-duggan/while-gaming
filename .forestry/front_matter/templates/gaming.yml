@@ -16,6 +16,11 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: game
+  type: text
+  config:
+    required: false
+  label: game
 - name: image
   type: file
   config:
