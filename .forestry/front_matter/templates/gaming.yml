@@ -36,4 +36,5 @@ fields:
       format: markdown
   label: opinion
 pages:
+- _gaming/outer-wilds.md
 - _gaming/undaunted-north-africa.md
