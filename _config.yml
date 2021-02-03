@@ -6,7 +6,7 @@ layout_style: overflow
 palette: blue
 header:
   title: While ( Blogging )
-  tagline: My Adventures in Gaming, Reading, Working and Life
+  tagline: My Adventures in Gaming, Reading, Coding and Life
   profile_img: images/avatar.png
   bg: dark
   has_nav: true
