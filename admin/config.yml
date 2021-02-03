@@ -217,7 +217,24 @@ collections:
       - widget: image
         name: image
         label: Image
-        required: false 
+        required: false
+  - name: coding
+    label: While Coding
+    folder: _coding
+    create: true
+    extension: md
+    slug: '{{year}}-{{month}}-{{day}}-{{title}}'
+    fields:
+      - widget: string
+        name: title
+        label: title
+      - widget: string
+        name: opinion
+        label: opinion
+      - widget: image
+        name: image
+        label: Image
+        required: false
   - name: watching
     label: While Watching
     folder: _watching
