@@ -9,7 +9,7 @@ layout: body
 <div>
   {% for game in paginator.posts %}
     <div class=review>
-      <img src="{{ game.image | relative_url }}" width=200>
+      <img src="{{ game.image | relative_url }}" >
       <p>
         <b style="font-size:18px;">Game: </b>{{ game.game }}
         <b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}
