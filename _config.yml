@@ -1,12 +1,12 @@
-title: While Gaming
+title: While Blogging
 baseurl: /
-url: https://while-gaming-493f5.netlify.app
+url: https://www.whileblogging.com
 permalink: '/:title/'
 layout_style: overflow
 palette: blue
 header:
-  title: While ( Gaming )
-  tagline: My Adventures in Gaming
+  title: While ( Blogging )
+  tagline: My Adventures in Gaming, Reading, Coding and Life
   profile_img: images/avatar.png
   bg: dark
   has_nav: true
@@ -14,7 +14,7 @@ header:
 menu:
   - title: home
     url: index.html
-  - title: blog
+  - title: While Blogging
     url: blog.html
   - title: While Gaming
     url: gaming/index.html
