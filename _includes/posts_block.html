@@ -16,7 +16,7 @@
   
   {% assign display-reading = '/reading' | get_pages | sort: 'date' | reverse %}
   {% assign recent-reading = display-reading | slice: 0, 1 %}
-  {% for game in recent-gaming %}
+  {% for game in recent-reading  %}
     <div class=review>
       <img src="{{ game.image | relative_url }}" >
       <p>        
