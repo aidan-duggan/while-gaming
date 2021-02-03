@@ -16,9 +16,9 @@ layout: body
       <img src="{{ game.image | relative_url }}" >
       {% endif %}
       <p>
-         <b style="font-size:18px;">{{ game.game }}</b>
-        <b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}
-       <b style="font-size:18px;">Impression: </b><i>{{ game.opinion }}</i>
+        <line><b style="font-size:18px;">{{ game.game }}</b></line>
+        <line><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}</line>
+        <line><b style="font-size:18px;">Impression: </b><i>{{ game.opinion }}</i></line>
       </p>
     </div>
   {% endfor %}
