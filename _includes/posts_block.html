@@ -1,16 +1,28 @@
 <section id="{{ include.section.section_id }}" class="block">
   <h2 class="block-title underline">{{ include.section.title }}</h2>
   
-  {% assign display_posts = '/gaming' | get_pages | sort: 'date' | reverse %}
-  {% assign recent_posts = display_posts | slice: 0, 1 %}
-  
-  {% for game in recent_posts %}
+  {% assign display-gaming = '/gaming' | get_pages | sort: 'date' | reverse %}
+  {% assign recent-gaming = display-gaming | slice: 0, 1 %}
+  {% for game in recent-gaming %}
     <div class=review>
       <img src="{{ game.image | relative_url }}" >
       <p>
         <line><b style="font-size:18px;">Game: </b>{{ game.game }} </line>
         <line><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }} </line>
         <line><b style="font-size:18px;">Impression: </b><i>{{ game.opinion }}</i> </line>
+      </p>
+    </div>
+  {% endfor %}
+  
+  {% assign display-reading = '/reading' | get_pages | sort: 'date' | reverse %}
+  {% assign recent-reading = display-reading | slice: 0, 1 %}
+  {% for game in recent-gaming %}
+    <div class=review>
+      <img src="{{ game.image | relative_url }}" >
+      <p>        
+        <line><b style="font-size:18px;">Book: </b>{{ game.book }}</line>
+        <line><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}</line>
+        <line><b style="font-size:18px;">Opinion: </b><i>{{ game.opinion }}</i></line>
       </p>
     </div>
   {% endfor %}
