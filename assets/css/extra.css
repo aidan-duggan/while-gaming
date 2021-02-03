@@ -6,7 +6,7 @@
 .review img {
     margin-right: 15px;
     float: left;
-    width: 200px;
+    width: 150px;
 }
 
 @media screen and (max-width: 480px) {
