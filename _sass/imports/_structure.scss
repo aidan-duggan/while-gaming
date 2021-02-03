@@ -21,13 +21,13 @@
 }
 
 .site-content {
-  padding-bottom: 2.5em;
-  padding-top: 2.5em;
+  padding-bottom: 5px;
+  padding-top: 5px;
 
   @media only screen and (min-width: 801px) {
     margin-left: 30vw;
-    padding-bottom: 3.33333em;
-    padding-top: 3.33333em;
+    padding-bottom: 5px;
+    padding-top: 5px;
   }
 
   @media only screen and (min-width: 1001px) {
@@ -36,7 +36,7 @@
 }
 
 .site-main {
-  margin-bottom: 3.33333em;
+  margin-bottom: 5px;
 }
 
 .site-main,
