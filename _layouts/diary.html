@@ -18,9 +18,7 @@ layout: body
       <p>
          <b style="font-size:18px;">{{ game.game }}</b>
         <b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}
-        <b>Players:</b> {{ game.players }}
-       <b>Position:</b> {{ game.position }}
-       <i>{{ game.opinion }}</i>
+       <b style="font-size:18px;">Impression: </b><i>{{ game.opinion }}</i>
       </p>
     </div>
   {% endfor %}
