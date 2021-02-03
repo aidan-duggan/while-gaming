@@ -4,7 +4,7 @@ sections:
   - type: contentblock
     component: content_block.html
     content: I started this blog to share my thoughts on boardgaming and to practice
-      some of my software development skills. It has hence evolved into much more, enjoy!
+      some of my software development skills. It has since evolved into much more, enjoy!
   - actions:
       - label: View Blog
         url: blog/index.html
