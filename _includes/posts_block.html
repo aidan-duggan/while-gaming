@@ -1,7 +1,5 @@
 <section id="{{ include.section.section_id }}" class="block">
-  <h2 class="block-title underline">{{ include.section.title }}</h2>
-  
-  <h3>While Blogging</h3>
+  <h2 class="block-title underline">While Blogging</h2>
  {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
     {% assign recent_posts = display_posts | slice: 0, 1 %}
   {% for post in recent_posts  %}
@@ -15,7 +13,7 @@
     </div>
   {% endfor %}
   
-  <h3>While Gaming</h3>
+  <h2 class="block-title underline">While Gaming</h2>
   {% assign display-gaming = '/gaming' | get_pages | sort: 'date' | reverse %}
   {% assign recent-gaming = display-gaming | slice: 0, 1 %}
   {% for game in recent-gaming %}
@@ -29,7 +27,7 @@
     </div>
   {% endfor %}
   
-  <h3>While Reading</h3>
+  <h2 class="block-title underline">While Reading</h2>
   {% assign display-reading = '/reading' | get_pages | sort: 'date' | reverse %}
   {% assign recent-reading = display-reading | slice: 0, 1 %}
   {% for game in recent-reading  %}
