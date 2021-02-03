@@ -15,8 +15,7 @@
     }
 }
 
-.review i,
-.review b,
+.review line,
 .review p{
     margin-left: 15px;
     display: block;
