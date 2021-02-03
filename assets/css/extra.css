@@ -1,5 +1,4 @@
 .review {
-    border: 4px solid red;
     padding: 20px;
     overflow: hidden;
 }
@@ -7,10 +6,16 @@
 .review img {
     margin-right: 15px;
     float: left;
+    width: 200px;
 }
 
-.review i,
-.review b,
+@media screen and (max-width: 480px) {
+.review img {
+         width: 100px;
+    }
+}
+
+.review line,
 .review p{
     margin-left: 15px;
     display: block;

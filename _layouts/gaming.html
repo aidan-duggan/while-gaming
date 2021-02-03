@@ -2,27 +2,21 @@
 layout: body
 ---
 <h2 class="hero-title">While Gaming</h2>
-  
   <div class="hero-text">
     <p> Here is where I record my one (maybe two) sentence first impressions from each game I play. You can see some previous recording games <a href="/diary">here</a>. </p>
 
   </div>
 <div>
   {% for game in paginator.posts %}
-    <div style="display:inline-block;vertical-align:top;margin:30px;max-width:40%">
-    <a href="{{ game.image | relative_url }}"><img src="{{ game.image | relative_url }}" width=200>
-      </img></a>
-</div>
-<div style="display:inline-block;max-width:60%">
-  <p>
-     <b style="font-size:18px;">Game: </b>{{ game.game }}
-    <br><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}
-       <br><b style="font-size:18px;">Impression: </b><i>{{ game.opinion }}</i></p>
-   </div>  
-<br></br>
+    <div class=review>
+      <img src="{{ game.image | relative_url }}" >
+      <p>
+        <line><b style="font-size:18px;">Game: </b>{{ game.game }} </line>
+        <line><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }} </line>
+        <line><b style="font-size:18px;">Impression: </b><i>{{ game.opinion }}</i> </line>
+      </p>
+    </div>
   {% endfor %}
-
-  
 
 {% if paginator.total_pages > 1 %}
 <p class="block-cta">

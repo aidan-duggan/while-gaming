@@ -9,17 +9,14 @@ layout: body
   </div>
 <div>
   {% for game in paginator.posts %}
-    <div style="display:inline-block;vertical-align:top;margin:30px;max-width:40%">
-    <a href="{{ game.image | relative_url }}"><img src="{{ game.image | relative_url }}" width=200>
-      </img></a>
-</div>
-<div style="display:inline-block;max-width:60%">
-  <p>
-     <b style="font-size:18px;">Book: </b>{{ game.book }}
-    <br><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}
-       <br><b style="font-size:18px;">Opinion: </b><i>{{ game.opinion }}</i></p>
-   </div>  
-<br></br>
+    <div class=review>
+      <img src="{{ game.image | relative_url }}" >
+      <p>
+        <line><b style="font-size:18px;">Book: </b>{{ game.book }}</line>
+        <line><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }}</line>
+        <line><b style="font-size:18px;">Opinion: </b><i>{{ game.opinion }}</i></line>
+      </p>
+    </div>
   {% endfor %}
 
   
