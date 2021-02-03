@@ -20,6 +20,8 @@ menu:
     url: gaming/index.html
   - title: While Reading
     url: reading/index.html
+  - title: While Coding
+    url: coding/index.html
   - title: contact
     url: contact.html
     
@@ -55,6 +57,8 @@ collections:
     permalink: 'gaming/:title'
   reading:
     permalink: 'reading/:title'
+  coding:
+    permalink: 'coding/:title'
 pagination:
   enabled: true
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
