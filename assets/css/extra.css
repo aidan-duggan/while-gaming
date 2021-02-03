@@ -6,6 +6,13 @@
 .review img {
     margin-right: 15px;
     float: left;
+    width: 200px;
+}
+
+@media screen and (max-width: 480px) {
+.review img {
+         width: 100px;
+    }
 }
 
 .review i,
