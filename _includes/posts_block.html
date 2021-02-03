@@ -14,6 +14,9 @@
       </p>
     </div>
   {% endfor %}
+  <p class="block-cta">
+    <a href="/blog" class="button">see more</a>
+  </p>
   
   <h2 class="block-title underline">While Gaming</h2>
   {% assign display-gaming = '/gaming' | get_pages | sort: 'date' | reverse %}
@@ -30,6 +33,9 @@
       </p>
     </div>
   {% endfor %}
+  <p class="block-cta">
+    <a href="/gaming" class="button">see more</a>
+  </p>
   
   <h2 class="block-title underline">While Reading</h2>
   {% assign display-reading = '/reading' | get_pages | sort: 'date' | reverse %}
@@ -47,41 +53,9 @@
       </p>
     </div>
   {% endfor %}
-  
- <!-- <div class="post-feed">
-    {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
-    {% assign slice_length = include.section.num_posts_displayed | minus: 0 %}
-    {% assign recent_posts = display_posts | slice: 0, slice_length %}
-    {% for post in recent_posts %}
-    <article class="post">
-      <div class="post-inside">
-        {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
-        {% if thumb_img_path_is_not_empty %}
-        <a class="post-thumbnail" href="{{ post.url | relative_url }}"><img class="thumbnail"
-            src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.title }}" /></a>
-        {% endif %}
-        <header class="post-header">
-          <h3 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h3>
-        </header>
-        <div class="post-content">
-          <p>{{ post.excerpt }}</p>
-        </div>
-        <footer class="post-meta">
-          <time class="published"
-            datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%B %d, %Y' }}</time>
-        </footer>
-      </div>
-    </article>
-    {% endfor %}
-  </div>
-  {% assign actions_is_not_empty = include.section.actions | is_not_empty %}
-  {% if actions_is_not_empty %}
+ 
   <p class="block-cta">
-    {% for action in include.section.actions %}
-    <a href="{{ action.url | relative_url }}" class="button">{{ action.label }}</a>
-    {% endfor %}
+    <a href="/reading" class="button">see more</a>
   </p>
-  {% endif %}
-
--->
+  
 </section><!-- .block -->
