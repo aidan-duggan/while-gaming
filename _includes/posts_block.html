@@ -27,6 +27,19 @@
     </div>
   {% endfor %}
   
+ {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
+    {% assign recent_posts = display_posts | slice: 0, 1 %}
+  {% for post in recent_posts  %}
+    <div class=review>
+      <img src="{{ post.thumb_img_path | relative_url }}" >
+      <p>        
+        <line><b style="font-size:18px;">{{ post.title }}</b></line>
+        <line><i> {{ post.date | date: "%B %-d, %Y" }}</i></line>
+        <line>{{ post.subtitle }}</line>
+      </p>
+    </div>
+  {% endfor %}
+  
  <!-- <div class="post-feed">
     {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
     {% assign slice_length = include.section.num_posts_displayed | minus: 0 %}
