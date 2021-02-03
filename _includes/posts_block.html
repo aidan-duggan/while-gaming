@@ -4,9 +4,11 @@
     {% assign recent_posts = display_posts | slice: 0, 1 %}
   {% for post in recent_posts  %}
     <div class=review>
+      <a class="post-thumbnail" href="{{ post.url | relative_url }}">
       <img src="{{ post.thumb_img_path | relative_url }}" >
+      </a>
       <p>        
-        <line><b style="font-size:18px;">{{ post.title }}</b></line>
+        <line><a href="{{ post.url | relative_url }}" rel="bookmark"><b style="font-size:18px;">{{ post.title }}</b></a></line>
         <line><i> {{ post.date | date: "%B %-d, %Y" }}</i></line>
         <line>{{ post.subtitle }}</line>
       </p>
@@ -18,9 +20,11 @@
   {% assign recent-gaming = display-gaming | slice: 0, 1 %}
   {% for game in recent-gaming %}
     <div class=review>
+      <a class="post-thumbnail" href="/gaming">
       <img src="{{ game.image | relative_url }}" >
+      </a>
       <p>
-        <line><b style="font-size:18px;">{{ game.game }}</b></line>
+        <line><a href="/gmaing"><b style="font-size:18px;">{{ game.game }}</b></a></line>
         <line><i> {{ game.date | date: "%B %-d, %Y" }}</i> </line>
         <line>{{ game.opinion }}</line>
       </p>
@@ -32,9 +36,12 @@
   {% assign recent-reading = display-reading | slice: 0, 1 %}
   {% for game in recent-reading  %}
     <div class=review>
+      
+      <a class="post-thumbnail" href="/reading">
       <img src="{{ game.image | relative_url }}" >
+      </a>
       <p>        
-        <line><b style="font-size:18px;">{{ game.book }}</b></line>
+        <line><a href="/reading"><b style="font-size:18px;">{{ game.book }}</b></a></line>
         <line><i> {{ game.date | date: "%B %-d, %Y" }}</i></line>
         <line>{{ game.opinion }}</line>
       </p>
