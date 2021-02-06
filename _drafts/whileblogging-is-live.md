@@ -2,11 +2,11 @@
 type: general
 title: Whileblogging is live!
 subtitle: A name change, a permanent home, new content and improved layout.
-date: 2021-02-06 00:00:00 +0000
+date: 2021-02-06T00:00:00.000+00:00
 thumb_img_path: "/images/testCard.png"
 content_img_path: "/images/testCard.png"
 excerpt: I've finally decided on a web address, which requires some name changes.
-  I'm also taking the opportunity to improve things and add a new section.
+  I'm also taking the opportunity to improve things and add a new section/
 layout: post
 
 ---
