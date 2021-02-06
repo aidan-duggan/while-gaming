@@ -26,3 +26,5 @@ fields:
 - type: text
   name: layout
   label: layout
+pages:
+- _posts/whileblogging-is-live.md
