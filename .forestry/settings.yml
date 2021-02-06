@@ -8,6 +8,13 @@ sections:
   label: Pages
   create: all
 - type: directory
+  path: _coding
+  label: Coding
+  create: documents
+  match: "**/*"
+  templates:
+  - coding
+- type: directory
   path: _reading
   label: Reading
   create: all
