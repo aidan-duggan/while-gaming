@@ -10,7 +10,7 @@
       <p>        
         <line><a href="{{ post.url | relative_url }}" rel="bookmark"><b style="font-size:18px;">{{ post.title }}</b></a></line>
         <line><i> {{ post.date | date: "%B %-d, %Y" }}</i></line>
-        <line>{{ post.subtitle }}</line>
+        <line>{{ post.subtitle }} <a class="post-thumbnail" href="{{ post.url | relative_url }}">read more</a></line>
       </p>
     </div>
   {% endfor %}
