@@ -58,4 +58,25 @@
     <a href="/reading" class="button">see more</a>
   </p>
   
+  <h2 class="block-title underline">While Coding</h2>
+  {% assign display-coding = '/coding' | get_pages | sort: 'date' | reverse %}
+  {% assign recent-coding = display-coding | slice: 0, 1 %}
+  {% for game in recent-coding  %}
+    <div class=review>
+      
+      <a class="post-thumbnail" href="/coding">
+      <img src="{{ game.image | relative_url }}" >
+      </a>
+      <p>        
+        <line><a href="/coding"><b style="font-size:18px;">{{ game.title }}</b></a></line>
+        <line><i> {{ game.date | date: "%B %-d, %Y" }}</i></line>
+        <line>{{ game.opinion }}</line>
+      </p>
+    </div>
+  {% endfor %}
+ 
+  <p class="block-cta-center">
+    <a href="/reading" class="button">see more</a>
+  </p>
+  
 </section><!-- .block -->
