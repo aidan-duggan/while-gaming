@@ -51,14 +51,18 @@ exclude:
 collections:
   posts:
     permalink: 'posts/:title'
+    output: true
   games:
     permalink: 'games/:title'  
   gaming:
     permalink: 'gaming/:title'
+    output: true
   reading:
     permalink: 'reading/:title'
+    output: true
   coding:
     permalink: 'coding/:title'
+    output: true
 pagination:
   enabled: true
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
