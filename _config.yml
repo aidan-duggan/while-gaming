@@ -77,3 +77,23 @@ pagination:
   limit: 0
   extension: html
   indexpage: 'index'
+  
+defaults:
+-
+  scope:
+    path: ""
+    type: "gaming" 
+  values:
+    layout: "default"
+-
+  scope:
+    path: ""
+    type: "reading" 
+  values:
+    layout: "default"
+-
+  scope:
+    path: ""
+    type: "coding" 
+  values:
+    layout: "default"
