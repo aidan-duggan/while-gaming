@@ -12,7 +12,7 @@ layout: body
     <div class=review>
       <img src="{{ game.image | relative_url }}" >
       <p>
-        <line><b style="font-size:18px;">{{ game.title }}</b></line>
+        <line><a href="{{game.url  | relative_url }}"> <b style="font-size:18px;">{{ game.title }} </a></b></line>
         <line><i>{{ game.date | date: "%B %-d, %Y" }}</i></line>
         <line>{{ game.opinion }}</line>
       </p>
