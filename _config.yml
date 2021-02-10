@@ -84,16 +84,16 @@ defaults:
     path: ""
     type: "gaming" 
   values:
-    layout: "default"
+    layout: "gaming-single"
 -
   scope:
     path: ""
     type: "reading" 
   values:
-    layout: "default"
+    layout: "reading-single"
 -
   scope:
     path: ""
     type: "coding" 
   values:
-    layout: "default"
+    layout: "coding-single"
