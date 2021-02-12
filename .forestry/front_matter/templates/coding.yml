@@ -14,3 +14,5 @@ fields:
 - type: textarea
   name: opinion
   label: opinion
+pages:
+- _coding/hiring-for-tenure.md
