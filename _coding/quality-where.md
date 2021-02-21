@@ -1,7 +1,7 @@
 ---
 title: Quality where?
 date: 2021-02-15 00:00:00 +0000
-image: ''
+image: "/uploads/justin-buisson-liqet0w1cnm-unsplash.jpg"
 opinion: Quality is something every company thrives for. But you can't spend an infinite
   amount of time on quality, only the rare business can manage that. I've been frustrated
   in the past when leadership has said focus on quality but not what to give up for
@@ -10,6 +10,5 @@ opinion: Quality is something every company thrives for. But you can't spend an 
   on where we should focus that. This can be in new stuff, in old stuff, by taking
   longer, by doing less. There are lots of options and for me to lead I have to be
   clear on where we are going to get there.
-published: false
 
 ---
