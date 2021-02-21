@@ -36,6 +36,7 @@ fields:
       format: markdown
   label: opinion
 pages:
+- _reading/a-memory-called-empire.md
 - _reading/the-last-emprox.md
 - _reading/the-ride-of-a-lifetime-robert-iger.md
 - _reading/the-solider-neal-asher.md
