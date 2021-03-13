@@ -21,7 +21,7 @@ In terms of the interface I've played, Race for the Galaxy, Alhambra, 7 Wonders,
 
 I actually find Carcassone more enjoyable through this interface then the stand alone game on Steam. Something about the less flashy design make it feel closer to the real thing.
 
-!\[Carcassone\](/images/detolf-glass-door-cabinet-black-brown__0625601_pe692387_s5.jpg.webp "Carcassone")
+!\[Carcassone\](/uploads/pxl_20210224_212541983.jpg "Carcassone")
 
 I've only been playing with friends which definitely adds to the experience. I played Memoir Online once with randoms and didn't like the pressure I felt to win against people I don't know. Certainly not having the physical came pieces to hold while playing make strategizing harder, and removes some of the enjoyment I feel when playing.
 
