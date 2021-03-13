@@ -25,7 +25,7 @@ In terms of the interface I've played, Race for the Galaxy, Alhambra, 7 Wonders,
 
 I actually find Carcassone more enjoyable through this interface then the stand alone game on Steam. Something about the less flashy design make it feel closer to the real thing.
 
-!\[Carcassone\](/uploads/pxl_20210224_212541983.jpg "Carcassone")
+![Carcassone](/uploads/pxl_20210224_212541983.jpg "Carcassone")
 
 **Impression so far**
 
