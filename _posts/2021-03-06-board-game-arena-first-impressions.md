@@ -1,7 +1,7 @@
 ---
 type: gaming
 title: Board Game Arena - First Impressions
-subtitle: How I find this new normal of digital boarg gaming
+subtitle: 'How I find this new normal of digital board gaming. '
 date: 2021-03-06 00:00:00 +0000
 thumb_img_path: "/uploads/boardgamearena-logo.jpg"
 content_img_path: "/uploads/boardgamearena-logo.jpg"
