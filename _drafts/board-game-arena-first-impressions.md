@@ -17,7 +17,7 @@ At the start of the pandemic we all picked up the Humble Bundle of boardgames on
 
 Recently we've started playing regularly using Board Game Arena, this has the advantage of only one person needing to have a paid account and a much wider library of games.
 
-I've been impressed enough with it so far. The library is decent lots of familiar favourites () as well as lots of weird stuff! Personally I'm trying to play games I've played physically before but I'll see how long before I crack and play something new.
+I've been impressed enough with it so far. The library is decent lots of familiar favourites as well as lots of weird stuff! Personally I'm trying to only play games I've played physically before  (even nothing but help make picking a game easier!) but I'll see how long before I crack and play something new to me.
 
 **How I'm finding it**
 
