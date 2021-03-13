@@ -9,7 +9,7 @@ excerpt: Shshhs
 layout: post
 
 ---
-Its been a long while since I've played games in person with my friends, as is the case for a lot of us. With a new daughter during this whole thing I didn't really prioritize gaming, to focus instead on settling into fatherhood. Now that I'm getting used to things I've start starting playing board remotely with my friends.
+Its been a long while since I've played games in person with my friends, as is the case for a lot of us. With a new daughter during this whole thing I didn't really prioritize gaming, to focus instead on settling into fatherhood. Now that I'm getting used to things I've started playing boardgames remotely with my friends again.
 
 At the start of the pandemic we all picked up the Humble Bundle of boardgames on steam, and a few times we played those, mostly Carcassone, Splendor and Small World. All are good implementations and I enjoyed playing them but we didn't really get into a regular pattern playing. I think this in some way is the problem of limited library and everyone needing a copy of the game.
 
