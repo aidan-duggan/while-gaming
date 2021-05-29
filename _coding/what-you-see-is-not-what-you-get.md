@@ -1,7 +1,7 @@
 ---
 title: What you see is not what you get
 date: 2021-05-28 23:00:00 +0000
-image: ''
+image: "/uploads/pxl_20210319_162633929.jpg"
 opinion: I've realized an interesting dynamic that has happened in the world of phone
   media. For a long time phone manufacturers have been pushing higher and higher resolution
   camera and video. This is breaking the cloud storage model that says it's easier
