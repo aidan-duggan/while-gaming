@@ -13,6 +13,5 @@ opinion: I've realized an interesting dynamic that has happened in the world of 
   it on they also cut corners. They want to charge you to store more photos but not
   other data cause they know photos are harder to manage, but I wouldn't trust that
   they wouldn't still cut corners for paying customers!
-published: false
 
 ---
