@@ -36,6 +36,7 @@ fields:
       format: markdown
   label: opinion
 pages:
+- _reading/a-long-way-to-a-small-angry-planet-becky-chambers.md
 - _reading/a-memory-called-empire.md
 - _reading/axiom-s-end-lindsay-ellis.md
 - _reading/high-output-management-andrew-s-grove.md
