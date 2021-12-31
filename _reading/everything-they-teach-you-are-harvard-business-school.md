@@ -6,6 +6,6 @@ image: "/uploads/97801410464882.jpg"
 opinion: An autobiography of Philip Broughton's 2 years at HBS. Interesting insight
   to what it is like, also a snapshot in time as it was published early 2008. Generally
   underwhelming, some what saved by the post script reflecting on the 08 financial
-  crisis. 3-4/5
+  crisis. 3/5
 
 ---
