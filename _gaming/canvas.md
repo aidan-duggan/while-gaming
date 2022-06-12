@@ -6,6 +6,5 @@ image: "/uploads/pxl_20220521_172102291.jpg"
 opinion: A simple set collection game with a very nice theme, using transparent cards
   to build wild paintings. Mechanically straightforward but with enough tough choices
   to make engaging, and the resulting paintings are a nice way foster table talk.
-published: false
 
 ---
