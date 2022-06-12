@@ -1,7 +1,7 @@
 ---
 type: blog
 title: Into the Outer Wilds - Again.
-subtitle: Creating my favour game in Lego
+subtitle: Creating my favourite game in Lego
 date: 2022-06-11 23:00:00 +0000
 thumb_img_path: "/uploads/20200919_174635.jpg"
 content_img_path: "/uploads/pxl_20220308_200003885.jpg"
