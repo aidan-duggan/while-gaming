@@ -36,6 +36,7 @@ fields:
       format: markdown
   label: opinion
 pages:
+- _gaming/canvas.md
 - _gaming/carto-ps4.md
 - _gaming/decrypto.md
 - _gaming/eastshade-ps4.md
