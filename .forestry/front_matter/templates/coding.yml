@@ -15,6 +15,7 @@ fields:
   name: opinion
   label: opinion
 pages:
+- _coding/creative-problems-need-creative-solutions.md
 - _coding/hiring-for-tenure.md
 - _coding/quality-where.md
 - _coding/what-you-see-is-not-what-you-get.md
