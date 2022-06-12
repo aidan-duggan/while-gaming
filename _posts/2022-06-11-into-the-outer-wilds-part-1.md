@@ -3,8 +3,8 @@ type: blog
 title: Into the Outer Wilds - Again.
 subtitle: Creating my favour game in Lego
 date: 2022-06-11 23:00:00 +0000
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/uploads/20200919_174635.jpg"
+content_img_path: "/uploads/pxl_20220308_200003885.jpg"
 excerpt: 'Outer Wilds was a game I picked up while on my paternity leave. As its core
   it is a game about exploration and mystery. It blew me away, the mechanics of the
   game, the theme, the music, the story, the visuals, basically everything completely
