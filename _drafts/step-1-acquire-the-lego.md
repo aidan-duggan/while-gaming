@@ -9,4 +9,12 @@ excerpt: difhgosfig
 layout: post
 
 ---
-dfvgsdfg
+Quick intro
+
+tackle two ships
+
+bricklink adventure...
+
+the hard ones...
+
+Image of box
