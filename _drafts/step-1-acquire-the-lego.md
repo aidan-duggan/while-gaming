@@ -9,7 +9,7 @@ excerpt: Who knew that buying small pieces of plastic was so hard and so expensi
 layout: post
 
 ---
-With my plan in motion the first step is to get the pieces! I figured I'd do both ships I found, a smaller one to practice and the large one.
+To put my plan in motion the first step is to get the pieces! I figured I'd do both ships I found, a smaller one to practice and the large one.
 
 I hit up bricklink and learned about the wonderful world of buy and selling Lego bricks!
 
