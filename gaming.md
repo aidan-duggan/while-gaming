@@ -5,10 +5,11 @@ menus:
     title: While Gaming
     weight: 5
 layout: gaming
-pagination: 
+pagination:
   enabled: true
   collection: gaming
-  sort_field: 'date'
+  sort_field: date
   sort_reverse: true
-  permalink: '/gaming/:num/'
+  permalink: "/gaming/:num/"
 ---
+

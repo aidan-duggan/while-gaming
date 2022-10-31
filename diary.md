@@ -5,10 +5,11 @@ menus:
     title: Game Diary
     weight: 5
 layout: diary
-pagination: 
+pagination:
   enabled: true
   collection: games
-  sort_field: 'date'
+  sort_field: date
   sort_reverse: true
-  permalink: '/gameDiary/:num/'
+  permalink: "/gameDiary/:num/"
 ---
+

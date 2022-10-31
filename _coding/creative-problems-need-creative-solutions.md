@@ -1,6 +1,6 @@
 ---
 title: Creative Problems need Creative Solutions
-date: 2022-06-10 23:00:00 +0000
+date: 2022-06-10 23:00:00 Z
 image: "/uploads/pxl_20220612_103944594.jpg"
 opinion: How do you record when your heating goes on and off? You can probably buy
   advanced home heating control systems but what about when you already have a system?
@@ -10,5 +10,5 @@ opinion: How do you record when your heating goes on and off? You can probably b
   temperature alert monitor placed in front of the boilers exhaust pipe! A couple
   days in an it works like a charm, alerts be when the heat is on and when it turns
   off. Now all I have to do is figure out how to export the emails to a spreadsheet!
-
 ---
+

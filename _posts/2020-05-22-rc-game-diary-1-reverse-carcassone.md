@@ -1,16 +1,17 @@
 ---
+title: 'RC Game Diary #1: Reverse Carcassonne'
+date: 2020-05-22 14:52:16 Z
 type: BDD2
-title: "RC Game Diary #1: Reverse Carcassonne"
-subtitle: "Botton up design: A new game idea starting from mechanics"
-date: 2020-05-22T14:52:16.595Z
-thumb_img_path: /images/carcassonne-auberges-cathedrales-title.jpg
-content_img_path: /images/carcassonne-auberges-cathedrales-title.jpg
-excerpt: Hot off the back of building my first board game prototype, I had an
-  idea for a game. While playing Carcassonne online with my friends, I wondered
-  what it would be like to play Carcassonne in reverse. Where the tiles were
-  already down and players were picking them up.
+subtitle: 'Botton up design: A new game idea starting from mechanics'
+thumb_img_path: "/images/carcassonne-auberges-cathedrales-title.jpg"
+content_img_path: "/images/carcassonne-auberges-cathedrales-title.jpg"
+excerpt: Hot off the back of building my first board game prototype, I had an idea
+  for a game. While playing Carcassonne online with my friends, I wondered what it
+  would be like to play Carcassonne in reverse. Where the tiles were already down
+  and players were picking them up.
 layout: post
 ---
+
 Hot off the back of building my first board game prototype, I had an idea for another game. While playing Carcassonne online with my friends, I wondered what it would be like to play Carcassonne in reverse. Where the tiles were already down and players were picking them up. 
 
 **Ideation**

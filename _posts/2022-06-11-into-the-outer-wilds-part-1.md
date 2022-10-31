@@ -1,8 +1,8 @@
 ---
-type: blog
 title: Into the Outer Wilds - Again.
+date: 2022-06-11 23:00:00 Z
+type: blog
 subtitle: Creating my favourite game in Lego
-date: 2022-06-11 23:00:00 +0000
 thumb_img_path: "/uploads/20200919_174635.jpg"
 content_img_path: "/uploads/pxl_20220308_200003885.jpg"
 excerpt: 'Outer Wilds was a game I picked up while on my paternity leave. As its core
@@ -11,8 +11,8 @@ excerpt: 'Outer Wilds was a game I picked up while on my paternity leave. As its
   captivated me and it is not one of my favorite games. Just the first few notes of
   the intro music is enough to send me reminiscing. '
 layout: post
-
 ---
+
 Outer Wilds was a game I picked up while on my paternity leave. At its core it is a game about exploration and mystery. It blew me away, the mechanics of the game, the theme, the music, the story, the visuals, basically everything completely captivated me and it is now one of my favorite games. Just the first few notes of the intro music is enough to send me reminiscing. 
 
 I would love to speak in more detail but it is game of mystery and I would not want to spoil it for anyone. All I'll say is if you like non-linear exploration / mystery games you should give it a try.

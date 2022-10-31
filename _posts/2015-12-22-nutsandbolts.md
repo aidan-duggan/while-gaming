@@ -1,14 +1,17 @@
 ---
-layout: post
 title: The Nuts and Bolts
+date: 2015-12-22 00:00:00 Z
+layout: post
 subtitle: How it all works.
 type: general
 image: https://jekyllrb.com/img/logo-2x.png
-date: '2015-12-22'
 thumb_img_path: https://jekyllrb.com/img/logo-2x.png
 content_img_path: https://jekyllrb.com/img/logo-2x.png
-excerpt: >-
-  When it comes to websites I prefer something clean and basic. I'm sure there are themes for Wordpress or blogger that fit this but I have a slight unexplained aversion to them for a personal site. I've used blogger for small project blogs no problem, but there is something I can't place why I don't want it for a personnel blog.
+excerpt: When it comes to websites I prefer something clean and basic. I'm sure there
+  are themes for Wordpress or blogger that fit this but I have a slight unexplained
+  aversion to them for a personal site. I've used blogger for small project blogs
+  no problem, but there is something I can't place why I don't want it for a personnel
+  blog.
 ---
 
 When it comes to websites I prefer something clean and basic. I'm sure there are themes for Wordpress or blogger that fit this but I have a slight unexplained aversion to them for a personal site. I've used blogger for small project blogs no problem, but there is something I can't place why I don't want it for a personnel blog.

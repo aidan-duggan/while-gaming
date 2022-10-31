@@ -1,7 +1,48 @@
+---
 title: While Blogging
-baseurl: /
+timezone: UTC
+collections:
+  coding:
+    title: Coding
+    output: true
+    permalink: "/:collection/:name"
+  games:
+    title: Games
+    output: false
+    permalink: games/:title
+  gaming:
+    title: Gaming
+    output: true
+    permalink: "/:collection/:name"
+  posts:
+    title: Posts
+    output: true
+  reading:
+    title: Reading
+    output: true
+    permalink: "/:collection/:name"
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: gaming
+  values:
+    layout: gaming-single
+- scope:
+    path: ''
+    type: reading
+  values:
+    layout: reading-single
+- scope:
+    path: ''
+    type: coding
+  values:
+    layout: coding-single
+baseurl: "/"
 url: https://www.whileblogging.com
-permalink: '/:title/'
+permalink: "/:title/"
 layout_style: overflow
 palette: blue
 header:
@@ -12,19 +53,18 @@ header:
   has_nav: true
   has_social: true
 menu:
-  - title: home
-    url: index.html
-  - title: While Blogging
-    url: blog.html
-  - title: While Gaming
-    url: gaming/index.html
-  - title: While Reading
-    url: reading/index.html
-  - title: While Coding
-    url: coding/index.html
-  - title: contact
-    url: contact.html
-    
+- title: home
+  url: index.html
+- title: While Blogging
+  url: blog.html
+- title: While Gaming
+  url: gaming/index.html
+- title: While Reading
+  url: reading/index.html
+- title: While Coding
+  url: coding/index.html
+- title: contact
+  url: contact.html
 footer:
   content: ''
 sass:
@@ -32,68 +72,28 @@ sass:
   style: nested
   precision: 10
 plugins:
-  - jekyll-menus
-  - jekyll-feed
+- jekyll-menus
+- jekyll-feed
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - ssg-build.sh
-  - LICENSE.md
-  - README.md
-  - netlify.toml
-  - stackbit-build.sh
-  - stackbit-pull.js
-collections:
-  posts:
-    permalink: 'posts/:title'
-    output: true
-    permalink: /:collection/:name
-  games:
-    permalink: 'games/:title'  
-  gaming:
-    permalink: 'gaming/:title'
-    output: true
-    permalink: /:collection/:name
-  reading:
-    permalink: 'reading/:title'
-    output: true
-    permalink: /:collection/:name
-  coding:
-    permalink: 'coding/:title'
-    output: true
-    permalink: /:collection/:name
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- ssg-build.sh
+- LICENSE.md
+- README.md
+- netlify.toml
+- stackbit-build.sh
+- stackbit-pull.js
 pagination:
   enabled: true
-  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: false
-  collection: 'posts'
+  collection: posts
   per_page: 5
-  permalink: '/page/:num/' 
+  permalink: "/page/:num/"
   limit: 0
   extension: html
-  indexpage: 'index'
-  
-defaults:
--
-  scope:
-    path: ""
-    type: "gaming" 
-  values:
-    layout: "gaming-single"
--
-  scope:
-    path: ""
-    type: "reading" 
-  values:
-    layout: "reading-single"
--
-  scope:
-    path: ""
-    type: "coding" 
-  values:
-    layout: "coding-single"
+  indexpage: index

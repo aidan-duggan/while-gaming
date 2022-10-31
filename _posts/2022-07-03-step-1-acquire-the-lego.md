@@ -1,14 +1,14 @@
 ---
-type: blog
 title: 'Step 1: Acquire the Lego and First Build'
+date: 2022-07-03 23:00:00 Z
+type: blog
 subtitle: Starting the journey to create my Outer Wilds spaceship
-date: 2022-07-03 23:00:00 +0000
 thumb_img_path: "/uploads/legoship.png"
 content_img_path: "/uploads/legoship.png"
 excerpt: Who knew that buying small pieces of plastic was so hard and so expensive?!
 layout: post
-
 ---
+
 To put my plan in motion the first step is to get the pieces! I figured I'd do both ships I found, a smaller one to practice and the large one.
 
 I hit up BrickLink and learned about the wonderful world of buy and selling Lego bricks!

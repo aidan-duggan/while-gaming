@@ -1,8 +1,8 @@
 ---
-type: gaming
 title: Board Game Arena - First Impressions
+date: 2021-03-06 00:00:00 Z
+type: gaming
 subtitle: 'How I find this new normal of digital board gaming. '
-date: 2021-03-06 00:00:00 +0000
 thumb_img_path: "/uploads/boardgamearena-logo.jpg"
 content_img_path: "/uploads/boardgamearena-logo.jpg"
 excerpt: Its been a long while since I've played games in person with my friends,
@@ -11,8 +11,8 @@ excerpt: Its been a long while since I've played games in person with my friends
   I'm getting used to things I've started playing boardgames remotely with my friends
   again.
 layout: post
-
 ---
+
 Its been a long while since I've played games in person with my friends, as is the case for a lot of us. With a new daughter during this whole thing I didn't really prioritize gaming, to focus instead on settling into fatherhood. Now that I'm getting used to things I've started playing boardgames remotely with my friends again.
 
 **In the beginning**

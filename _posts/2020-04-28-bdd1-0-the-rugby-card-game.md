@@ -1,19 +1,20 @@
 ---
-type: BDD1
 title: BDD1.0 The Rugby Card Game
+date: 2020-04-28 16:14:45 Z
+type: BDD1
 subtitle: Lets kick of the boardgame design diary for my Rugby Card Game.
-date: 2020-04-28T16:14:45.623Z
-thumb_img_path: /images/DSC_0209.JPG
-content_img_path: /images/DSC_0209.JPG
-excerpt: I've blogged about my idea for a Rugby boardgame before. In that post,
-  I discuss the rules of the sport and how they could be mapped to a game. In
-  particular the challenges with how to track 15 players on each side. I then
-  evolved this idea further, focusing on a variant of the sport called 7s with
-  just 7 players a side. After some more thoughts, I've started to figure out
-  how I'd like the game to work, and I'm committing myself to building a working
-  prototype, even if I start to feel its not right.
+thumb_img_path: "/images/DSC_0209.JPG"
+content_img_path: "/images/DSC_0209.JPG"
+excerpt: I've blogged about my idea for a Rugby boardgame before. In that post, I
+  discuss the rules of the sport and how they could be mapped to a game. In particular
+  the challenges with how to track 15 players on each side. I then evolved this idea
+  further, focusing on a variant of the sport called 7s with just 7 players a side.
+  After some more thoughts, I've started to figure out how I'd like the game to work,
+  and I'm committing myself to building a working prototype, even if I start to feel
+  its not right.
 layout: post
 ---
+
 **Quick recap**
 
 I've blogged about my idea for a [Rugby boardgame](posts/idea3) before. In that post, I discuss the rules of the sport and how they could be mapped to a game. In particular the challenges with how to track 15 players on each side. I then evolved this [idea further](/posts/rugby1), focusing on a variant of the sport called 7s with just 7 players a side. After some more thoughts, I've started to figure out how I'd like the game to work, and I'm committing myself to building a working prototype, even if I start to feel its not right.

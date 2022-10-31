@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Part 3- Finishing
+date: 2016-11-30 00:00:00 Z
+layout: post
 subtitle: Painting the Skyranger
 type: xcom
-date: '2016-11-30'
 thumb_img_path: images/front.JPG
 content_img_path: images/front.JPG
-excerpt: >-
-  With the Skyranger ready to paint, I had to decide how I wanted to paint it! My preferred aesthetic, as with the Thin Men, is something simple with solid blocks of colours.
+excerpt: With the Skyranger ready to paint, I had to decide how I wanted to paint
+  it! My preferred aesthetic, as with the Thin Men, is something simple with solid
+  blocks of colours.
 ---
 
 _Alas due to moving house I do not have any middle stage photographs._

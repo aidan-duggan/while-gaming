@@ -1,13 +1,14 @@
 ---
-layout: post
 title: Commander...
+date: 2015-12-10 00:00:00 Z
+layout: post
 subtitle: It all begins here.
 type: xcom
-date: '2015-12-10'
 thumb_img_path: images/xcom.jpg
 content_img_path: images/xcom.jpg
-excerpt: >-
-  I never played the original x-com but as soon as played the remake xcom I fell in love with it. It has the perfect combination of smooth game play, easy to use UI and perfectly executed B movie aesthetics that I love.
+excerpt: I never played the original x-com but as soon as played the remake xcom I
+  fell in love with it. It has the perfect combination of smooth game play, easy to
+  use UI and perfectly executed B movie aesthetics that I love.
 ---
 
 I never played the original x-com but as soon as played the remake xcom I fell in love with it. It has the perfect combination of smooth game play, easy to use UI and perfectly executed B movie aesthetics that I love.

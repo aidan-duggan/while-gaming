@@ -1,16 +1,17 @@
 ---
+title: 'RCG Diary #2 Fleshing out the core loop'
+date: 2020-05-06 11:02:13 Z
 type: BDD1
-title: "RCG Diary #2 Fleshing out the core loop"
 subtitle: Turning my core loop concept into something more well defined.
-date: 2020-05-06T11:02:13.496Z
-thumb_img_path: /images/rugbyplaycardexample2.png
-content_img_path: /images/rugbyplaycardexample2.png
-excerpt: In my last post, I gave a general outline of what I wanted the core
-  loop to be. I also created a document on github to start fleshing out my
-  rules. Since then I've added much more details to my rules, and added a lot
-  more details to what will be the core loop of the game.
+thumb_img_path: "/images/rugbyplaycardexample2.png"
+content_img_path: "/images/rugbyplaycardexample2.png"
+excerpt: In my last post, I gave a general outline of what I wanted the core loop
+  to be. I also created a document on github to start fleshing out my rules. Since
+  then I've added much more details to my rules, and added a lot more details to what
+  will be the core loop of the game.
 layout: post
 ---
+
 In my last post, I gave a general outline of what I wanted the core loop to be. I also created a document on github to start fleshing out my rules. Since then I've added much more details to my rules, and added a lot more details to what will be the core loop of the game.
 
 **Core Cards**

@@ -1,14 +1,15 @@
 ---
-layout: post
 title: Is that a bird? A plane?
+date: 2016-11-20 00:00:00 Z
+layout: post
 subtitle: No it's a Skyranger!
 type: xcom
-date: '2016-11-20'
 thumb_img_path: images/skyranger.jpg
 content_img_path: images/skyranger.jpg
-excerpt: >-
-  In xcom your troops are delivered to each mission by a Skyranger. It is a sort of futuristic Osprey. Naturally I need something similar for my troops! For me though it would need to be bigger, in the game it only carries 6 soldiers, where I would like to carry closer to 12-16.
-
+excerpt: In xcom your troops are delivered to each mission by a Skyranger. It is a
+  sort of futuristic Osprey. Naturally I need something similar for my troops! For
+  me though it would need to be bigger, in the game it only carries 6 soldiers, where
+  I would like to carry closer to 12-16.
 ---
 
 In xcom your troops are delivered to each mission by a [Skyranger](http://ufopaedia.org/index.php/Skyranger_(EU2012)). It

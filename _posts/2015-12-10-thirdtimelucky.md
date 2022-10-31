@@ -1,14 +1,17 @@
 ---
-layout: post
 title: Third Time's the Charm
+date: 2015-12-10 00:00:00 Z
+layout: post
 subtitle: In the beginning...
 type: general
-date: '2015-12-10'
 thumb_img_path: images/icon.png
 content_img_path: images/icon.png
-excerpt: >-
-  This is actually my third attempt to start a blog. My first idea, years ago, was one dedicated to boardgame design call 'The Boardgame Cabinet'. I had a great idea for a web design based on that premise, and played around with some obscure blogging software and hosting services to run it. Alas my web design skills were not up to the challenge and the project died on the literal drawing board. (I still have my notes for planned posts so it might revive in some form). Strike one.
-
+excerpt: This is actually my third attempt to start a blog. My first idea, years ago,
+  was one dedicated to boardgame design call 'The Boardgame Cabinet'. I had a great
+  idea for a web design based on that premise, and played around with some obscure
+  blogging software and hosting services to run it. Alas my web design skills were
+  not up to the challenge and the project died on the literal drawing board. (I still
+  have my notes for planned posts so it might revive in some form). Strike one.
 ---
 
 This is actually my third attempt to start a blog. My first idea, years ago, was one dedicated to boardgame design call 'The Boardgame Cabinet'. I had a great idea for a web design based on that premise, and played around with some obscure blogging software and hosting services to run it. Alas my web design skills were not up to the challenge and the project died on the literal drawing board. (I still have my notes for planned posts so it might revive in some form). Strike one.

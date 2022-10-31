@@ -1,11 +1,12 @@
 ---
-title: "An Experiement: Boardgame Design Diary"
+title: 'An Experiement: Boardgame Design Diary'
+date: 2020-04-26 12:29:01 Z
 subtitle: How to better encouarge myself to progress on my game
-date: 2020-04-26T12:29:01.687Z
-thumb_img_path: /images/g-w-t-v2.png
-content_img_path: /images/g-w-t-v2.png
+thumb_img_path: "/images/g-w-t-v2.png"
+content_img_path: "/images/g-w-t-v2.png"
 layout: post
 ---
+
 ##### Where have I been?
 
 Its been a while since I've written anything. I find writing to take a lot of effort for me, and I'm generally just doing this for myself, so it was easy to stop. I was also finding it difficult to manage the blog, given I want to use tools and technology that are more open and flexible then the likes of wordpress and medium. 

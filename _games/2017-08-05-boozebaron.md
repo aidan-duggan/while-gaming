@@ -1,8 +1,11 @@
 ---
+title: Boozebaron
+date: 2017-08-05 00:00:00 Z
+position: 0
 game: Booze Barons
 players: 9
-position: 2nd on double tie breaker
 opinion: Fun but not very deep game
 localImage: bozbar.jpg
-imageText: ""
+imageText: ''
 ---
+

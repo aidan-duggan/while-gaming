@@ -5,10 +5,11 @@ menus:
     title: While Coding
     weight: 5
 layout: coding
-pagination: 
+pagination:
   enabled: true
   collection: coding
-  sort_field: 'date'
+  sort_field: date
   sort_reverse: true
-  permalink: '/coding/:num/'
+  permalink: "/coding/:num/"
 ---
+
