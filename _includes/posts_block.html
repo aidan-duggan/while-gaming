@@ -2,22 +2,6 @@
   <h2 class="block-title underline">While Blogging</h2>
  {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
     {% assign recent_posts = display_posts | slice: 0, 1 %}
-  {% for post in recent_posts  %}
-    <div class=review>
-      <a class="post-thumbnail" href="{{ post.url | relative_url }}">
-      <img src="{{ post.thumb_img_path | relative_url }}" >
-      </a>
-      <p>        
-        <line><a href="{{ post.url | relative_url }}" rel="bookmark"><b style="font-size:18px;">{{ post.title }}</b></a></line>
-        <line><i> {{ post.date | date: "%B %-d, %Y" }}</i></line>
-        <line>{{ post.subtitle }} <a class="post-thumbnail" href="{{ post.url | relative_url }}">read more</a></line>
-      </p>
-    </div>
-  {% endfor %}
-  <p class="block-cta-center">
-    <a href="/blog" class="button">see more</a>
-  </p>
-  
   <h2 class="block-title underline">While Gaming</h2>
   {% assign display-gaming = '/gaming' | get_pages | sort: 'date' | reverse %}
   {% assign recent-gaming = display-gaming | slice: 0, 1 %}
@@ -77,6 +61,21 @@
  
   <p class="block-cta-center">
     <a href="/coding" class="button">see more</a>
+  </p>
+  {% for post in recent_posts  %}
+    <div class=review>
+      <a class="post-thumbnail" href="{{ post.url | relative_url }}">
+      <img src="{{ post.thumb_img_path | relative_url }}" >
+      </a>
+      <p>        
+        <line><a href="{{ post.url | relative_url }}" rel="bookmark"><b style="font-size:18px;">{{ post.title }}</b></a></line>
+        <line><i> {{ post.date | date: "%B %-d, %Y" }}</i></line>
+        <line>{{ post.subtitle }} <a class="post-thumbnail" href="{{ post.url | relative_url }}">read more</a></line>
+      </p>
+    </div>
+  {% endfor %}
+  <p class="block-cta-center">
+    <a href="/blog" class="button">see more</a>
   </p>
   
 </section><!-- .block -->
