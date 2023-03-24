@@ -4,7 +4,7 @@
 	padding:0;
 	margin:0;
 }
-h1, h2, h3, h4, h5, h6, p, pre, blockquote, label, ul, ol, dl, fieldset, address { margin:0 0 1em 0; }
+h1, h2, h3,  h4, h5, h6, p, pre, blockquote, label, ul, ol, dl, fieldset, address { margin:0 0 1em 0; }
 li, dd { margin-left:5%; }
 fieldset { padding: .5em; }
 body {
@@ -101,8 +101,18 @@ h1,h2,h3,h4,h5,h6 {
 	font-weight:100;
 }
 h3 {
-	background:url('../images/h3_bg.jpg') no-repeat 0 0;
+	
+  position: absolute;
+  bottom: 0px;
+  left: 50px;
 	color:#fff;
 	font-size:24px;
 	padding:10px;
+	margin:0 0 0 0;
+}
+
+#container {
+  position: relative;
+  text-align: center;
+  color: white;
 }
