@@ -11,7 +11,7 @@ layout: post
 
 I've been thinking a lot recently about game groups, I've been involved in a few tabletop over many years. In my youth I was not one for sports though, it was only post college where I took up Rugby that I experienced what sports groups are like. I've also observed by father who is big into golf, having captained a club in the past. I'm also fascinated by Bridge clubs, the strong membership and success they seem to have. I originally started this as my own ramblings, but as I work in the Tech Industry I thought I should explore this topic with Chat GPT to learn a little more about that tool at the same time. I promise I'll mark anything Chat GPT created explicitly!
 
-Caveat: all of the below is my experience, and is clearly very local to Dublin, Ireland where I live, a not particularly dense city in a not particularly dense country.
+Caveat: My experience are just that, mine, and are clearly very local to Dublin, Ireland where I live, a not particularly dense city in a not particularly dense country. So when speaking of my experience, it does not speak broadly to how all groups run.
 
 **Write a short intro to a blog on board game groups:**
 
@@ -51,5 +51,5 @@ Board game groups, like any community, are not without their challenges. One of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxOTM1OTYzXX0=
+eyJoaXN0b3J5IjpbMTQ5NDQzMTEzNV19
 -->
