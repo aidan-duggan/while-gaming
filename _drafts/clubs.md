@@ -19,19 +19,17 @@ Caveat: all of the below is my experience, and is clearly very local to Dublin, 
 
 A very wordy and flowery intro, not exactly my style! This got me thinking though on how Chat GPT to represent different types of clubs. With intro out of the way, the real focus of this post is the differences, so I asked Chat GPT why different types of groups are successful. From this is interesting to see the differences, and what opportunities there are.
 
-I'm particularly interested in comparing Bridge to Board game groups, as they are both table top games! and when I look even locally I find dozens of bridge clubs locally, loads of details about groups, events, results etc. There is even a specific web site software they all use! I've add golf also for a much more commercially successful example that is still very much membership driven.
+I'm particularly interested in comparing Bridge to Board game groups, as they are both table top games! and when I look even locally I find dozens of bridge clubs locally, loads of details about groups, events, results etc. There is even a specific web site software they all use! I've add golf also for a much more commercially successful example that is still very much membership driven. All answers were much longer, so I have just shown the summary part Chat GPT provided.
 
-Why 
+Why are Bridge clubs successful?
 
+*Bridge clubs excel in providing a structured and social environment focused on skill development, friendly competition, and fostering a sense of community. These factors contribute to the enduring success of bridge clubs as gathering places for bridge enthusiasts.*
 
-Bridge
+Why are Golf clubs successful?
 
-bridge clubs excel in providing a structured and social environment focused on skill development, friendly competition, and fostering a sense of community. These factors contribute to the enduring success of bridge clubs as gathering places for bridge enthusiasts.
+*By providing opportunities for social interaction, diverse game experiences, intellectual stimulation, learning, and support, board game clubs create an environment that appeals to board game enthusiasts and fosters a thriving community of players.*
 
-vs boardgame club
-
-By providing opportunities for social interaction, diverse game experiences, intellectual stimulation, learning, and support, board game clubs create an environment that appeals to board game enthusiasts and fosters a thriving community of players.
-
+Why are Board game clubs succesf
 Golf 
 The combination of engaging gameplay, social opportunities, access to facilities, a sense of community, and the promotion of wellness contribute to the success and popularity of golf clubs.
 
@@ -51,5 +49,5 @@ Board game groups, like any community, are not without their challenges. One of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTEyMzg3M119
+eyJoaXN0b3J5IjpbMTUwMjExMjIxNF19
 -->
