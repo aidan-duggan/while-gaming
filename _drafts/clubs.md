@@ -9,7 +9,7 @@ excerpt:
 layout: post
 ---
 
-I've been thinking a lot recently about game groups, I've been involved in a few tabletop over many years. In my youth I was not one for sports though, it was only post college where I took up Rugby that I experienced what sports groups are like. I've also observed by father who is big into golf, having captained a club in the past. I'm also fascinated by Bridge clubs, and the strong membership and success they seem to have. I originally started this as my own ramblings, but as I work in the Tech Industry I thought I should explore this topic with Chat GPT to learn a little more about that tool at the same time. I promise I'll mark anything Chat GPT created explicitly.
+I've been thinking a lot recently about game groups, I've been involved in a few tabletop over many years. In my youth I was not one for sports though, it was only post college where I took up Rugby that I experienced what sports groups are like. I've also observed by father who is big into golf, having captained a club in the past. I'm also fascinated by Bridge clubs, the strong membership and success they seem to have. I originally started this as my own ramblings, but as I work in the Tech Industry I thought I should explore this topic with Chat GPT to learn a little more about that tool at the same time. I promise I'll mark anything Chat GPT created explicitly!
 
 Caveat: all of the below is my experience, and is clearly very local to Dublin, Ireland where I live, a not particularly dense city in a not particularly dense country.
 
@@ -27,12 +27,14 @@ Why are Bridge clubs successful?
 
 Why are Golf clubs successful?
 
+*The combination of engaging gameplay, social opportunities, access to facilities, a sense of community, and the promotion of wellness contribute to the success and popularity of golf clubs.*
+
+Why are Board game clubs successful?
+
 *By providing opportunities for social interaction, diverse game experiences, intellectual stimulation, learning, and support, board game clubs create an environment that appeals to board game enthusiasts and fosters a thriving community of players.*
 
-Why are Board game clubs succesf
-Golf 
-The combination of engaging gameplay, social opportunities, access to facilities, a sense of community, and the promotion of wellness contribute to the success and popularity of golf clubs.
 
+Next time...
 Does well
 
 Clear Communication: Open and effective communication within the group is essential.
@@ -49,5 +51,5 @@ Board game groups, like any community, are not without their challenges. One of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjExMjIxNF19
+eyJoaXN0b3J5IjpbODQxOTM1OTYzXX0=
 -->
