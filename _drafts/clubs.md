@@ -39,7 +39,7 @@ For Golf; gameplay, social (opportunities), facilities, community and wellness.
 For Board Games; social, diverse games, intellectual, learning and support.
 
 This clear that all of these are social pursuits, but its interesting that board games does not mention community. This does match my personal experience, with groups feeling fragile and where you might actually know others names.
-Development and competition are also interesting alternatives to diversity and intellectual. Competitions and development go 
+Development and competition are also interesting alternatives to diversity and learning. Competitions and development go hand in hand, and work well when playing the same game repeatedly, boardgame groups generally play a variety of games, so a focus on learning makes more sense, and I've never seen 
 
 Next time...
 Does well
@@ -111,6 +111,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzgzMzAyOSwxNzM0NjgwODgyLDE0OT
+eyJoaXN0b3J5IjpbLTUyMjI1Mjc3OSwxNzM0NjgwODgyLDE0OT
 Q0MzExMzVdfQ==
 -->
