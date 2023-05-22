@@ -33,7 +33,10 @@ Why are Board game clubs successful?
 
 *By providing opportunities for social interaction, diverse game experiences, intellectual stimulation, learning, and support, board game clubs create an environment that appeals to board game enthusiasts and fosters a thriving community of players.*
 
-Things that stand out for me for Bridge, Structured, Social, Skill Development, Competition and Commu
+Things that stand out for me:
+For Bridge; Structured, Social, Skill Development, Competition and Community.
+For Golf; gameplay, social (opportunities), facilities, community and wellness.
+For Board Games; social, diverse games, intellectual, learning and support
 
 Next time...
 Does well
@@ -105,6 +108,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTUzNjI0NSwxNzM0NjgwODgyLDE0OT
+eyJoaXN0b3J5IjpbLTI4MDM3OTU0OCwxNzM0NjgwODgyLDE0OT
 Q0MzExMzVdfQ==
 -->
