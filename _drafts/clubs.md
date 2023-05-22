@@ -17,9 +17,9 @@ Caveat: My experience are just that, mine, and are clearly very local to Dublin,
 
 *Board games have an undeniable charm, bringing people together in moments of shared laughter, friendly competition, and unforgettable memories. But it's within the embrace of a board game group that the magic truly unfolds. These passionate communities foster camaraderie, intellectual engagement, and creativity, making them an integral part of the tabletop gaming experience. Join us as we explore the wonders of board game groups, from discovering new games to building lasting friendships. Welcome to the captivating world where cardboard becomes kingdoms and friends become family.*
 
-A very wordy and flowery intro, not exactly my style! This got me thinking though on how Chat GPT to represent different types of clubs. With intro out of the way, the real focus of this post is the differences, so I asked Chat GPT why different types of groups are successful. From this is interesting to see the differences, and what opportunities there are.
+A very wordy and flowery intro, not exactly my style! This got me thinking though on how Chat GPT represents different types of clubs. With intro out of the way, the real focus of this post is the differences, so I asked Chat GPT why different types of groups are successful. From this it is interesting to see the differences, and what that could mean.
 
-I'm particularly interested in comparing Bridge to Board game groups, as they are both table top games! and when I look even locally I find dozens of bridge clubs locally, loads of details about groups, events, results etc. There is even a specific web site software they all use! I've add golf also for a much more commercially successful example that is still very much membership driven. All answers were much longer, so I have just shown the summary part Chat GPT provided.
+I'm particularly interested in comparing Bridge to Board game groups, as they are both table top games! and when I look even locally I find dozens of bridge clubs , loads of details about groups, events, results etc. There is even a specific web site software they all use! For additional perspective I've added golf w that is still very much membership driven. All answers were much longer, so I have just shown the summary part Chat GPT provided.
 
 Why are Bridge clubs successful?
 
@@ -104,5 +104,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDY4MDg4MiwxNDk0NDMxMTM1XX0=
+eyJoaXN0b3J5IjpbMTg4NjE0NDU4MSwxNzM0NjgwODgyLDE0OT
+Q0MzExMzVdfQ==
 -->
