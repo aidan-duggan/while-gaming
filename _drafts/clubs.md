@@ -9,15 +9,11 @@ excerpt:
 layout: post
 ---
 
-I've been thinking a lot recently about game groups, I've been involved in a few tabletop ones over the years. In my youth I was not one for sports though, so it was only post college when I took up Rugby, that I experienced what sports groups are like. I've observed my father who is big into golf, including captained a club in the past and I'm also fascinated by Bridge clubs, the strong membership and success they seem to have. I originally started this as my own ramblings, but as I work in the Tech Industry I thought I should explore this topic with Chat GPT to learn a little more about that tool at the same time. I promise I'll mark anything Chat GPT created explicitly!
+I've been thinking a lot recently about game groups, I've been involved in a few tabletop ones over the years. In my youth I was not one for sports though, so it was only post college when I took up Rugby, that I experienced what sports groups are like. I've observed my father who is big into golf, including captained a club in the past and I'm fascinated by Bridge clubs, the strong membership and success they seem to have. I originally started this as my own ramblings, but as I work in the Tech Industry I thought I should explore this topic with Chat GPT to learn a little more about that tool at the same time. I promise I'll mark anything Chat GPT created explicitly!
 
-Caveat: My experience are just that, mine, and are clearly very local to Dublin, Ireland where I live, a not particularly dense city in a not particularly dense country. So when speaking of my experience, it does not speak broadly to how all groups run.
+Caveat: My experience are just that, mine, and are clearly very local to Dublin, Ireland where I live, a not particularly dense city, in a not particularly dense country. So when speaking of my experience, it does not speak broadly to how all groups run.
 
-**Write a short intro to a blog on board game groups:**
-
-*Board games have an undeniable charm, bringing people together in moments of shared laughter, friendly competition, and unforgettable memories. But it's within the embrace of a board game group that the magic truly unfolds. These passionate communities foster camaraderie, intellectual engagement, and creativity, making them an integral part of the tabletop gaming experience. Join us as we explore the wonders of board game groups, from discovering new games to building lasting friendships. Welcome to the captivating world where cardboard becomes kingdoms and friends become family.*
-
-A very wordy and flowery intro, not exactly my style! This got me thinking though on how Chat GPT represents different types of clubs. With intro out of the way, the real focus of this post is the differences, so I asked Chat GPT why different types of groups are successful. From this it is interesting to see the differences, and what that could mean.
+So how does Chat GPT represents different types of clubs? I asked Chat GPT why different types of groups are successful
 
 I'm particularly interested in comparing Bridge to Board game groups, as they are both table top games! and when I look even locally I find dozens of bridge clubs , loads of details about groups, events, results etc. There is even a specific web site software they all use! For additional perspective I've added golf while outdoors it is very member driven and self contained, unlike football which needs other clubs to play against.  All answers were much longer, so I have just shown the summary part Chat GPT provided.
 
@@ -114,6 +110,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Mzg0NDQ2MiwxNzM0NjgwODgyLDE0OT
+eyJoaXN0b3J5IjpbMTQwNzA3MTIwNSwxNzM0NjgwODgyLDE0OT
 Q0MzExMzVdfQ==
 -->
