@@ -9,9 +9,7 @@ excerpt:
 layout: post
 ---
 
-I've been thinking a lot recently about game groups, I've been involved in a few tabletop ones over the years. When I was young I observed my father playing golf for many years, in college I was heavily involved running the gaming society, and after college I took up Rugby an experienced directly what sports groups are like. But I'm particularly fascinated by Bridge clubs, the strong membership and success they seem to have. I originally started this as my own ramblings, but as I work in the Tech Industry I thought I could explore this topic using Chat GPT to learn a little more about that tool at the same time. I promise I'll mark anything Chat GPT created explicitly!
-
-Caveat: My experience are just that, mine, and are clearly very local to Dublin, Ireland where I live, a not particularly dense city, in a not particularly dense country. So when speaking of my experience, it does not speak broadly to how all groups run.
+I've been thinking a lot recently about game groups, I've been involved in a few tabletop ones over the years. When I was young I observed my father playing golf for many years, in college I was heavily involved running the gaming society, and after college I took up Rugby an experienced directly what sports groups are like. But I'm particularly fascinated by Bridge clubs, the strong membership and success they seem to have. I work in the Tech Industry so I thought why not explore this topic using Chat GPT to learn a little more about that tool at the same time.
 
 So how does Chat GPT represents different types of clubs? I asked Chat GPT why different types of groups are successful, Board Game clubs, Bridge clubs and golf clubs. 
 
@@ -112,6 +110,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTI3MDYzMSwxNzM0NjgwODgyLDE0OT
-Q0MzExMzVdfQ==
+eyJoaXN0b3J5IjpbLTE1MTc2NjkwODAsMTczNDY4MDg4MiwxND
+k0NDMxMTM1XX0=
 -->
