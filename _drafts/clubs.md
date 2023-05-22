@@ -13,9 +13,13 @@ I've been thinking a lot recently about game groups, I've been involved in a few
 
 Caveat: My experience are just that, mine, and are clearly very local to Dublin, Ireland where I live, a not particularly dense city, in a not particularly dense country. So when speaking of my experience, it does not speak broadly to how all groups run.
 
-So how does Chat GPT represents different types of clubs? I asked Chat GPT why different types of groups are successful
+So how does Chat GPT represents different types of clubs? I asked Chat GPT why different types of groups are successful, Board Game clubs, Bridge clubs and golf clubs. 
 
-I'm particularly interested in comparing Bridge to Board game groups, as they are both table top games! and when I look even locally I find dozens of bridge clubs , loads of details about groups, events, results etc. There is even a specific web site software they all use! For additional perspective I've added golf while outdoors it is very member driven and self contained, unlike football which needs other clubs to play against.  All answers were much longer, so I have just shown the summary part Chat GPT provided.
+I'm particularly interested in comparing Bridge to Board game groups, as they are both table top games! and when I look even locally I find dozens of bridge clubs , loads of details about groups, events, results etc. There is even a specific web site software they all use! I've added golf, which while outdoors, is very member driven and self contained, unlike other spots which needs other clubs to play against.  All answers were much longer, so I have just shown the summary part Chat GPT provided.
+
+Why are Board game clubs successful?
+
+*By providing opportunities for social interaction, diverse game experiences, intellectual stimulation, learning, and support, board game clubs create an environment that appeals to board game enthusiasts and fosters a thriving community of players.*
 
 Why are Bridge clubs successful?
 
@@ -24,10 +28,6 @@ Why are Bridge clubs successful?
 Why are Golf clubs successful?
 
 *The combination of engaging gameplay, social opportunities, access to facilities, a sense of community, and the promotion of wellness contribute to the success and popularity of golf clubs.*
-
-Why are Board game clubs successful?
-
-*By providing opportunities for social interaction, diverse game experiences, intellectual stimulation, learning, and support, board game clubs create an environment that appeals to board game enthusiasts and fosters a thriving community of players.*
 
 Things that stand out for me:
 For Bridge; structured, social, skill development, competition and community.
@@ -110,6 +110,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzA3MTIwNSwxNzM0NjgwODgyLDE0OT
+eyJoaXN0b3J5IjpbLTE0MDIxOTIxMCwxNzM0NjgwODgyLDE0OT
 Q0MzExMzVdfQ==
 -->
