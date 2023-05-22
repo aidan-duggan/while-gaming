@@ -31,7 +31,7 @@ Why are Golf clubs successful?
 
 Things that stand out for me:
 For Bridge; structured, social, skill development, competition and community.
-For Golf; gameplay, social (opportunities), facilities, community and wellness.
+For Golf; gameplay, social opportunities*, facilities, community and wellness.
 For Board Games; social, diverse games, intellectual, learning and support.
 
 This clear that all of these are social pursuits, but its interesting that board games does not mention community. This does match my personal experience, with groups feeling fragile and where you might actually know others names.
@@ -40,6 +40,8 @@ Development and competition are also interesting alternatives to diversity and l
 Thoughts?
 I think the biggest word that stands out to me is structure, while groups I've been involved in have had some structure, it was never written down and even then was very basic. I think from structure comes things like community, competition and development (it is harder to develop in an unstructured environment). So could there be an opportunity here for a board game group that tries to model some of the traits that have made Bridge such an enduring hobby? Could explicit community focused structure, and elements of wider competition make for a successful group?
 
+
+*In the longer form ChatGPT highlighted the networking aspect of Golf in particular, clearly picking up 
 Next time...
 Does well
 
@@ -110,6 +112,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDIxOTIxMCwxNzM0NjgwODgyLDE0OT
+eyJoaXN0b3J5IjpbLTgxOTk5MDU1MiwxNzM0NjgwODgyLDE0OT
 Q0MzExMzVdfQ==
 -->
