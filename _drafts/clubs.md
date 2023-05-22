@@ -35,7 +35,7 @@ I've highlighted the words that stand out to me. Its clear that all of these are
 
 I think the biggest word that stands out to me is structure, while groups I've been involved in have had some structure, it was never written down and even then was very basic. This is something I felt before writing this post and its interesting ChatGPT highlighted it also. I think from structure comes things like community, competition and development. Look at any successful community and it is built on ritual and structure, this reduces peoples cognitive load and makes for more psychologically safe space as boundaries are clearer. People generally desire betterment which usually requires some sense of competition or clear progression in skill to feel tangible (even art, has art shows or material objects to compare self progress against). 
 
-So could there be an opportunity here for a board game group that tries to model some of the traits that have made Bridge such an enduring hobby? Could explicit community focused structure, and elements of wider competition make for a successful group? Or would this clash too heavily with Board game groups desire to try new things, and the overwhelming number of new games out there? Is the base of people interested in the hobby too small or to new to it to really gain value from an alternative approach?
+So could there be an opportunity here for a board game group that tries to model some of the traits that have made Bridge such an enduring hobby? Could explicit community focused structure, and elements of wider competition make for a successful group? Or would this clash too heavily with Board game groups desire to be trying new things, and the overwhelming number of new games out there? Is the base of people interested in the hobby too small, or to new to it. to really gain value from an alternative approach? I'd love to hear what others think?
 
 *In the longer form ChatGPT highlighted the networking aspect of Golf in particular, clearly picking up on many business advice columns...
 
@@ -109,6 +109,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDk0NjE0MCw4Nzk2MDM3OTgsMTczND
-Y4MDg4MiwxNDk0NDMxMTM1XX0=
+eyJoaXN0b3J5IjpbNjgyNTExOTUyLDg3OTYwMzc5OCwxNzM0Nj
+gwODgyLDE0OTQ0MzExMzVdfQ==
 -->
