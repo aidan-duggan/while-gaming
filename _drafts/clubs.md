@@ -19,7 +19,7 @@ All answers were much longer, so I have just shown the summary part Chat GPT pro
  
 Why are Board game clubs successful?
 
-*By providing opportunities for **social** interaction, **diverse** game experiences, intellectual **stimulation**, **learning**, and **support**, board game clubs create an environment that appeals to board game enthusiasts and fosters a thriving community of players.*
+*By providing opportunities for **social** interaction, **diverse** game experiences, intellectual **stimulation**, **learning**, and **support**, board game clubs create an environment that appeals to board game enthusiasts and fosters a thriving community of players.
 
 Why are Bridge clubs successful?
 
@@ -37,7 +37,6 @@ I think the biggest word that stands out to me is structure, while groups I've b
 
 So could there be an opportunity here for a board game group that tries to model some of the traits that have made Bridge such an enduring hobby? Could explicit community focused structure, and elements of wider competition make for a successful group? Or would this clash too heavily with Board game groups desire to be trying new things, and the overwhelming number of new games out there? Is the base of people interested in the hobby too small, or to new to it. to really gain value from an alternative approach? I'd love to hear what others think?
 
-*In the longer form ChatGPT highlighted the networking aspect of Golf in particular, clearly picking up on many business advice columns...
 
 Next time...
 Does well
@@ -109,6 +108,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNTExOTUyLDg3OTYwMzc5OCwxNzM0Nj
-gwODgyLDE0OTQ0MzExMzVdfQ==
+eyJoaXN0b3J5IjpbLTEyNzY5MDQ5OTQsNjgyNTExOTUyLDg3OT
+YwMzc5OCwxNzM0NjgwODgyLDE0OTQ0MzExMzVdfQ==
 -->
