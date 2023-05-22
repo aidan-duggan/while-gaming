@@ -9,7 +9,7 @@ excerpt:
 layout: post
 ---
 
-I've been thinking a lot recently about game groups, I've been involved in a few tabletop ones over the years. I observed my father playing golf for many years, including captaining a club, in my youth I was not one for sports though, so it was only post college when I took up Rugby, that I experienced what sports groups are like. I and I'm fascinated by Bridge clubs, the strong membership and success they seem to have. I originally started this as my own ramblings, but as I work in the Tech Industry I thought I should explore this topic with Chat GPT to learn a little more about that tool at the same time. I promise I'll mark anything Chat GPT created explicitly!
+I've been thinking a lot recently about game groups, I've been involved in a few tabletop ones over the years. I observed my father playing golf for many years, it was only post college when I took up Rugby and experienced directly what sports groups are like, I've ran various functions of my college game society and I'm fascinated by Bridge clubs, the strong membership and success they seem to have. I originally started this as my own ramblings, but as I work in the Tech Industry I thought I could explore this topic using Chat GPT to learn a little more about that tool at the same time. I promise I'll mark anything Chat GPT created explicitly!
 
 Caveat: My experience are just that, mine, and are clearly very local to Dublin, Ireland where I live, a not particularly dense city, in a not particularly dense country. So when speaking of my experience, it does not speak broadly to how all groups run.
 
@@ -112,6 +112,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTczNzkyMiwxNzM0NjgwODgyLDE0OT
-Q0MzExMzVdfQ==
+eyJoaXN0b3J5IjpbMTgwMTY3NzM4LDE3MzQ2ODA4ODIsMTQ5ND
+QzMTEzNV19
 -->
