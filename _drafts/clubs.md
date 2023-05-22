@@ -29,9 +29,9 @@ Why are Golf clubs successful?
 
 *The combination of engaging **gameplay**, **social** opportunities, access to **facilities**, a sense of **community**, and the promotion of **wellness** contribute to the success and popularity of golf clubs.*
 
-I've highlighted the words that stand out to me. Its clear that all of these are social pursuits, but its interesting that board games does not mention community only support, (I wonder if this is support learning new games?). This does match my personal experience, with groups feeling fragile, where you might not be s. Development and competition are also interesting alternatives to diversity and learning. Competitions and development go hand in hand, and work well when playing the same game repeatedly, board game groups generally play a variety of games, so a focus on learning makes more sense, and I've never seen competition outside the game being played. Facilities and wellness clearly fit golf given its outdoor aspect and required club house and course, often Bridge clubs play in Golf club houses!
+I've highlighted the words that stand out to me. Its clear that all of these are social pursuits, but its interesting that board games does not mention community only support, (I wonder if this is support learning new games?). This does match my personal experience, with groups feeling fragile, where you might not be connected to other tables playing in the same space). Development and competition are also interesting alternatives to diversity and learning. Competitions and development go hand in hand, and work well when playing the same game repeatedly. Board game groups generally play a variety of games, so a focus on learning makes more sense, I've never seen competition outside the game being played. Facilities and wellness clearly fit golf given its outdoor aspect and required club house and course, often Bridge clubs play in Golf club houses!
 
-Thoughts?
+???
 
 I think the biggest word that stands out to me is structure, while groups I've been involved in have had some structure, it was never written down and even then was very basic. I think from structure comes things like community, competition and development. Look at any successful community and it is built on ritual and structure, this reduces peoples cognitive load and makes for more psychologically safe space as boundaries are clearer. A desire for betterment usually requires some sense of competition or clear progression in skill to feel tangible. So could there be an opportunity here for a board game group that tries to model some of the traits that have made Bridge such an enduring hobby? Could explicit community focused structure, and elements of wider competition make for a successful group? Or would this clash too heavily with Board game groups desire to try new things, and the overwhelming number of new games out there? Is the base of people interested in the hobby too small or to new to it to really gain value from an alternative approach?
 
@@ -107,6 +107,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ2NjQ4OTAsODc5NjAzNzk4LDE3Mz
-Q2ODA4ODIsMTQ5NDQzMTEzNV19
+eyJoaXN0b3J5IjpbMjA2OTM5MTkwLDg3OTYwMzc5OCwxNzM0Nj
+gwODgyLDE0OTQ0MzExMzVdfQ==
 -->
