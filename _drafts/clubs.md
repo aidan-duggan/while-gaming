@@ -1,5 +1,5 @@
 ---
-title: 'Bridging the New'
+title: 'ChatGPT & Boardgame Clubs'
 date: 2023-18-05 23:00:00 Z
 type: blog
 subtitle: TBD
@@ -9,7 +9,7 @@ excerpt:
 layout: post
 ---
 
-I've been thinking a lot recently about game groups, I've been involved in a few tabletop ones over the years. In my youth I was not one for sports though, so it was only post college when I took up Rugby, that I experienced what sports groups are like. I've observed my father who is big into golf, including captained a club in the past and I'm fascinated by Bridge clubs, the strong membership and success they seem to have. I originally started this as my own ramblings, but as I work in the Tech Industry I thought I should explore this topic with Chat GPT to learn a little more about that tool at the same time. I promise I'll mark anything Chat GPT created explicitly!
+I've been thinking a lot recently about game groups, I've been involved in a few tabletop ones over the years. I observed my father playing golf for many years, including captaining a club, in my youth I was not one for sports though, so it was only post college when I took up Rugby, that I experienced what sports groups are like. I and I'm fascinated by Bridge clubs, the strong membership and success they seem to have. I originally started this as my own ramblings, but as I work in the Tech Industry I thought I should explore this topic with Chat GPT to learn a little more about that tool at the same time. I promise I'll mark anything Chat GPT created explicitly!
 
 Caveat: My experience are just that, mine, and are clearly very local to Dublin, Ireland where I live, a not particularly dense city, in a not particularly dense country. So when speaking of my experience, it does not speak broadly to how all groups run.
 
@@ -38,10 +38,10 @@ Its clear that all of these are social pursuits, but its interesting that board 
 
 Thoughts?
 
-I think the biggest word that stands out to me is structure, while groups I've been involved in have had some structure, it was never written down and even then was very basic. I think from structure comes things like community, competition and development. Look at any successful community and it is built on ritual and structure, this reduces peoples cognitive load and makes for more psychologically safe space as boundaries are clearer. A desire for betterment usually requires some sense of competition or clear progression in skill to feel tangible. So could there be an opportunity here for a board game group that tries to model some of the traits that have made Bridge such an enduring hobby? Could explicit community focused structure, and elements of wider competition make for a successful group? Or would this clash too heavily with Board game groups desire to try new things, and the overwhelming number of new games out there? Is the base of people interested in the hobby too small or to new to it to really gain value from an al
-
+I think the biggest word that stands out to me is structure, while groups I've been involved in have had some structure, it was never written down and even then was very basic. I think from structure comes things like community, competition and development. Look at any successful community and it is built on ritual and structure, this reduces peoples cognitive load and makes for more psychologically safe space as boundaries are clearer. A desire for betterment usually requires some sense of competition or clear progression in skill to feel tangible. So could there be an opportunity here for a board game group that tries to model some of the traits that have made Bridge such an enduring hobby? Could explicit community focused structure, and elements of wider competition make for a successful group? Or would this clash too heavily with Board game groups desire to try new things, and the overwhelming number of new games out there? Is the base of people interested in the hobby too small or to new to it to really gain value from an alternative approach?
 
 *In the longer form ChatGPT highlighted the networking aspect of Golf in particular, clearly picking up on many business advice columns...
+
 Next time...
 Does well
 
@@ -112,6 +112,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTc0NDUzMiwxNzM0NjgwODgyLDE0OT
+eyJoaXN0b3J5IjpbMTkyNTczNzkyMiwxNzM0NjgwODgyLDE0OT
 Q0MzExMzVdfQ==
 -->
