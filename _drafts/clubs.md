@@ -11,10 +11,12 @@ layout: post
 
 I've been thinking a lot recently about game groups, I've been involved in a few tabletop ones over the years. When I was young I observed my father playing golf for many years, in college I was heavily involved running the gaming society, and after college I took up Rugby an experienced directly what sports groups are like. But I'm particularly fascinated by Bridge clubs, the strong membership and success they seem to have. I work in the Tech Industry so I thought why not explore this topic using [Chat GPT](https://openai.com/blog/chatgpt) to learn a little more about that tool at the same time.
 
-So how does Chat GPT represents different types of clubs? I asked Chat GPT why different types of groups are successful, Board Game clubs, Bridge clubs and golf clubs. (I've added golf, which while outdoors, is very member driven and self contained, unlike other spots which needs other clubs to play against.  All answers were much longer, so I have just shown the summary part Chat GPT provided.)
+So how does Chat GPT represents different types of clubs? I asked Chat GPT why different types of groups are successful, Board Game clubs, Bridge clubs and golf clubs. (I've added golf, which while outdoors, it is very member driven and self contained, unlike other spots which needs other clubs to play against. )
 
 I'm particularly interested in comparing Bridge to Board game groups, as they are both table top games! and when I look I find dozens of [local bridge clubs](https://www.bridgewebs.com/cgi-bin/bwoq/bw.cgi?club=dublinsouth&pid=display_ctyclubs), [each club](https://www.bridgewebs.com/railwayunion/) has its own site with loads of details about groups, events, results etc. There is even a specific [web site software](https://www.bridgewebs.com/) they all use! 
 
+All answers were much longer, so I have just shown the summary part Chat GPT provided.
+ 
 Why are Board game clubs successful?
 
 *By providing opportunities for social interaction, diverse game experiences, intellectual stimulation, learning, and support, board game clubs create an environment that appeals to board game enthusiasts and fosters a thriving community of players.*
@@ -110,6 +112,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc3MjIwMSw4Nzk2MDM3OTgsMTczND
-Y4MDg4MiwxNDk0NDMxMTM1XX0=
+eyJoaXN0b3J5IjpbLTE3NDAwOTk0NDQsODc5NjAzNzk4LDE3Mz
+Q2ODA4ODIsMTQ5NDQzMTEzNV19
 -->
