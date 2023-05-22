@@ -19,7 +19,7 @@ Caveat: My experience are just that, mine, and are clearly very local to Dublin,
 
 A very wordy and flowery intro, not exactly my style! This got me thinking though on how Chat GPT represents different types of clubs. With intro out of the way, the real focus of this post is the differences, so I asked Chat GPT why different types of groups are successful. From this it is interesting to see the differences, and what that could mean.
 
-I'm particularly interested in comparing Bridge to Board game groups, as they are both table top games! and when I look even locally I find dozens of bridge clubs , loads of details about groups, events, results etc. There is even a specific web site software they all use! For additional perspective I've added golf w that is still very much membership driven. All answers were much longer, so I have just shown the summary part Chat GPT provided.
+I'm particularly interested in comparing Bridge to Board game groups, as they are both table top games! and when I look even locally I find dozens of bridge clubs , loads of details about groups, events, results etc. There is even a specific web site software they all use! For additional perspective I've added golf while outdoors it is very member driven and self contained, unlike football which needs other clubs to play against.  All answers were much longer, so I have just shown the summary part Chat GPT provided.
 
 Why are Bridge clubs successful?
 
@@ -33,6 +33,7 @@ Why are Board game clubs successful?
 
 *By providing opportunities for social interaction, diverse game experiences, intellectual stimulation, learning, and support, board game clubs create an environment that appeals to board game enthusiasts and fosters a thriving community of players.*
 
+Things that stand out for me for Bridge, Structured, Social, Skill Development, Competition and Commu
 
 Next time...
 Does well
@@ -104,6 +105,6 @@ Golf clubs have experienced success for several reasons:
     
 8.  Exercise, Wellness, and Outdoor Recreation: Golf is a physical activity that promotes exercise, fresh air, and outdoor recreation. It provides an opportunity to stay active, enjoy nature, and improve overall wellness. Golf clubs offer a space where members can engage in a leisurely yet beneficial form of exercise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjE0NDU4MSwxNzM0NjgwODgyLDE0OT
+eyJoaXN0b3J5IjpbMTQ2MTUzNjI0NSwxNzM0NjgwODgyLDE0OT
 Q0MzExMzVdfQ==
 -->
