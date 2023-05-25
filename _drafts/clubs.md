@@ -3,13 +3,13 @@ title: 'ChatGPT & Boardgame Clubs'
 date: 2023-18-05 23:00:00 Z
 type: blog
 subtitle: What ChatGPT thinks makes successful clubs
-thumb_img_path: "/uploads/tbd.png"
-content_img_path: "/uploads/tbd.png"
+thumb_img_path: "/images/Hotpot.png"
+content_img_path: "/uploads/Hotpot.png"
 excerpt: 
 layout: post
 ---
 
-I've been thinking a lot recently about game groups, I've been involved in a few tabletop ones over the years. When I was young I observed my father playing golf for many years, in college I was heavily involved running the gaming society, and after college I took up Rugby an experienced directly what sports groups are like. But I'm particularly fascinated by Bridge clubs, the strong membership and success they seem to have. I work in the Tech Industry so I thought why not explore this topic using [Chat GPT](https://openai.com/blog/chatgpt) to learn a little more about that tool at the same time.
+I've been thinking a lot recently about game groups, I've been involved in a few tabletop ones over the years. When I was young I observed my father playing golf for many years, in college I was heavily involved running the gaming society, and after college I took up Rugby an experienced directly what sports groups are like. But I'm particularly fascinated by Bridge clubs, the strong membership and success they seem to have. I work in the Tech Industry so I thought why not explore this topic using [Chat GPT](https://openai.com/blog/chatgpt) to learn a little more about that tool at the same time. (The image are also courtesy of AI, though the quality leaves something to be desired...)
 
 So how does Chat GPT represents different types of clubs? I asked Chat GPT why different types of groups are successful, Board Game clubs, Bridge clubs and golf clubs. (I've added golf, which while outdoors, it is very member driven and self contained, unlike other spots which needs other clubs to play against. )
 
@@ -31,6 +31,8 @@ All answers were much longer, so I have just shown the summary part Chat GPT pro
 
 I've highlighted the words that stand out to me. Its clear that all of these are social pursuits, but its interesting that board games does not mention community only support, (I wonder if this is support learning new games?). This does match my personal experience, with groups feeling fragile, where you might not be connected to other tables playing in the same space). Development and competition are also interesting alternatives to diversity and learning. Competitions and development go hand in hand, and work well when playing the same game repeatedly. Board game groups generally play a variety of games, so a focus on learning makes more sense, I've never seen competition outside the game being played. Facilities and wellness clearly fit golf given its outdoor aspect and required club house and course, often Bridge clubs play in Golf club houses!
 
+images/pjnReAvw.jpg
+
 **What did I learn from this?**
 
 I think the biggest word that stands out to me is structure, while groups I've been involved in have had some structure, it was never written down and even then was very basic. This is something I felt before writing this post and its interesting ChatGPT highlighted it also. I think from structure comes things like community, competition and development. Look at any successful community and it is built on ritual and structure, this reduces peoples cognitive load and makes for more psychologically safe space as boundaries are clearer. People generally desire betterment which usually requires some sense of competition or clear progression in skill to feel tangible (even art, has art shows or material objects to compare self progress against). 
@@ -39,7 +41,7 @@ So could there be an opportunity here for a board game group that tries to model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Njk0NTQ2LC0yNjc3NzM2NzgsLTEyNz
-Y5MDQ5OTQsNjgyNTExOTUyLDg3OTYwMzc5OCwxNzM0NjgwODgy
-LDE0OTQ0MzExMzVdfQ==
+eyJoaXN0b3J5IjpbOTY2MTkwMTA1LDEzNTY5NDU0NiwtMjY3Nz
+czNjc4LC0xMjc2OTA0OTk0LDY4MjUxMTk1Miw4Nzk2MDM3OTgs
+MTczNDY4MDg4MiwxNDk0NDMxMTM1XX0=
 -->
