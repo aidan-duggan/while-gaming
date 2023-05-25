@@ -2,7 +2,7 @@
 title: 'ChatGPT & Boardgame Clubs'
 date: 2023-18-05 23:00:00 Z
 type: blog
-subtitle: What ChatGPT can teach us about table top clubs
+subtitle: What ChatGPT thinks makes successful clubs
 thumb_img_path: "/uploads/tbd.png"
 content_img_path: "/uploads/tbd.png"
 excerpt: 
@@ -39,7 +39,7 @@ So could there be an opportunity here for a board game group that tries to model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjAwNzQ0OSwtMjY3NzczNjc4LC0xMj
-c2OTA0OTk0LDY4MjUxMTk1Miw4Nzk2MDM3OTgsMTczNDY4MDg4
-MiwxNDk0NDMxMTM1XX0=
+eyJoaXN0b3J5IjpbMTM1Njk0NTQ2LC0yNjc3NzM2NzgsLTEyNz
+Y5MDQ5OTQsNjgyNTExOTUyLDg3OTYwMzc5OCwxNzM0NjgwODgy
+LDE0OTQ0MzExMzVdfQ==
 -->
