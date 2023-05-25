@@ -2,7 +2,7 @@
 title: 'ChatGPT & Boardgame Clubs'
 date: 2023-18-05 23:00:00 Z
 type: blog
-subtitle: TBD
+subtitle: What ChatGPT can teach us about table top clubs
 thumb_img_path: "/uploads/tbd.png"
 content_img_path: "/uploads/tbd.png"
 excerpt: 
@@ -17,21 +17,21 @@ I'm particularly interested in comparing Bridge to Board game groups, as they ar
 
 All answers were much longer, so I have just shown the summary part Chat GPT provided.
  
-Why are Board game clubs successful?
+**Why are Board game clubs successful?**
 
 *By providing opportunities for **social** interaction, **diverse** game experiences, intellectual **stimulation**, **learning**, and **support**, board game clubs create an environment that appeals to board game enthusiasts and fosters a thriving community of players.
 
-Why are Bridge clubs successful?
+**Why are Bridge clubs successful?**
 
 *Bridge clubs excel in providing a **structured** and **social** environment focused on skill **development**, friendly **competition**, and fostering a sense of **community**. These factors contribute to the enduring success of bridge clubs as gathering places for bridge enthusiasts.*
 
-Why are Golf clubs successful?
+**Why are Golf clubs successful?**
 
 *The combination of engaging **gameplay**, **social** opportunities, access to **facilities**, a sense of **community**, and the promotion of **wellness** contribute to the success and popularity of golf clubs.*
 
 I've highlighted the words that stand out to me. Its clear that all of these are social pursuits, but its interesting that board games does not mention community only support, (I wonder if this is support learning new games?). This does match my personal experience, with groups feeling fragile, where you might not be connected to other tables playing in the same space). Development and competition are also interesting alternatives to diversity and learning. Competitions and development go hand in hand, and work well when playing the same game repeatedly. Board game groups generally play a variety of games, so a focus on learning makes more sense, I've never seen competition outside the game being played. Facilities and wellness clearly fit golf given its outdoor aspect and required club house and course, often Bridge clubs play in Golf club houses!
 
-???
+**What did I learn from this?**
 
 I think the biggest word that stands out to me is structure, while groups I've been involved in have had some structure, it was never written down and even then was very basic. This is something I felt before writing this post and its interesting ChatGPT highlighted it also. I think from structure comes things like community, competition and development. Look at any successful community and it is built on ritual and structure, this reduces peoples cognitive load and makes for more psychologically safe space as boundaries are clearer. People generally desire betterment which usually requires some sense of competition or clear progression in skill to feel tangible (even art, has art shows or material objects to compare self progress against). 
 
@@ -39,7 +39,7 @@ So could there be an opportunity here for a board game group that tries to model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Nzc3MzY3OCwtMTI3NjkwNDk5NCw2OD
-I1MTE5NTIsODc5NjAzNzk4LDE3MzQ2ODA4ODIsMTQ5NDQzMTEz
-NV19
+eyJoaXN0b3J5IjpbLTk3MjAwNzQ0OSwtMjY3NzczNjc4LC0xMj
+c2OTA0OTk0LDY4MjUxMTk1Miw4Nzk2MDM3OTgsMTczNDY4MDg4
+MiwxNDk0NDMxMTM1XX0=
 -->
