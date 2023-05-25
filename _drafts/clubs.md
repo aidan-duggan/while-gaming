@@ -4,7 +4,7 @@ date: 2023-18-05 23:00:00 Z
 type: blog
 subtitle: What ChatGPT thinks makes successful clubs
 thumb_img_path: "/images/Hotpot.png"
-content_img_path: "/uploads/Hotpot.png"
+content_img_path: "/images/Hotpot.png"
 excerpt: 
 layout: post
 ---
@@ -31,7 +31,7 @@ All answers were much longer, so I have just shown the summary part Chat GPT pro
 
 I've highlighted the words that stand out to me. Its clear that all of these are social pursuits, but its interesting that board games does not mention community only support, (I wonder if this is support learning new games?). This does match my personal experience, with groups feeling fragile, where you might not be connected to other tables playing in the same space). Development and competition are also interesting alternatives to diversity and learning. Competitions and development go hand in hand, and work well when playing the same game repeatedly. Board game groups generally play a variety of games, so a focus on learning makes more sense, I've never seen competition outside the game being played. Facilities and wellness clearly fit golf given its outdoor aspect and required club house and course, often Bridge clubs play in Golf club houses!
 
-images/pjnReAvw.jpg
+![](images/pjnReAvw.jpg)
 
 **What did I learn from this?**
 
@@ -41,7 +41,7 @@ So could there be an opportunity here for a board game group that tries to model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MTkwMTA1LDEzNTY5NDU0NiwtMjY3Nz
-czNjc4LC0xMjc2OTA0OTk0LDY4MjUxMTk1Miw4Nzk2MDM3OTgs
-MTczNDY4MDg4MiwxNDk0NDMxMTM1XX0=
+eyJoaXN0b3J5IjpbMTE5NDcyNTUwMywxMzU2OTQ1NDYsLTI2Nz
+c3MzY3OCwtMTI3NjkwNDk5NCw2ODI1MTE5NTIsODc5NjAzNzk4
+LDE3MzQ2ODA4ODIsMTQ5NDQzMTEzNV19
 -->
