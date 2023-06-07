@@ -50,7 +50,11 @@ wide play: speed / pass  vs ability to rearrange
 
 Kick: gain territory
 
+Alternative thought:
+
+Trick taking, trump suit is action
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDE2NzE3M119
+eyJoaXN0b3J5IjpbLTE1MTM3MDM0NTFdfQ==
 -->
