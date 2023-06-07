@@ -48,13 +48,13 @@ test: strength / speed vs number of players in the space
 
 wide play: speed / pass  vs ability to rearrange
 
-Kick: gain territory
+Kick play: gain territory
 
 Alternative thought:
 
-Trick taking, trump suit is action, with each round targeting a goal based on a limited hand. All cards have all suits, but different values
+Trick taking, trump suit is action, with each round targeting a goal based on a limited hand. All cards have all suits, but different values. Draws favour the attacker. Need something to force symety 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MTYyMTA0XX0=
+eyJoaXN0b3J5IjpbLTc1MzcxMDgxXX0=
 -->
