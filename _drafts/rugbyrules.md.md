@@ -24,8 +24,8 @@ Pass ball to another player
 	Test
 	Possible outcomes
 	    Move ball to another player
-		
+		Lose the ball
 Kick the ball forward
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE4ODc2NzZdfQ==
+eyJoaXN0b3J5IjpbLTk3MTM3ODczM119
 -->
