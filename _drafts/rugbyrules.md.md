@@ -40,6 +40,17 @@ Alternative thought:
 
 short play, wide play, kick play
 set piece plays
+
+Ruck: arrange board
+
+Short play:
+test: strength / speed vs number of players in the space
+
+wide play: speed / pass  vs ability to rearrange
+
+Kick: gain territory
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyNDI1OTRdfQ==
+eyJoaXN0b3J5IjpbMTgzMDE2NzE3M119
 -->
