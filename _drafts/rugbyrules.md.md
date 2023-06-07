@@ -20,17 +20,26 @@ Move forward with ball in hand
 		Gain one space forward
 		Go back one space
 		lose the ball
+		Set piece - lineout
 Pass ball to another player
 	Test
 	Possible outcomes
 	    Move ball to another player
 		Lose the ball
+		Set piece - scrum
 Kick the ball forward
     Test
     Possible outcomes
 	    Gain / loss the ball
 	    Gain X spaces
-	    Set piece - lineout 
+	    Set piece - lineout, scrum
+
+-----
+
+Alternative thought:
+
+short play, wide play, kick play
+set piece plays
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTc3ODE1OV19
+eyJoaXN0b3J5IjpbNzYyNDI1OTRdfQ==
 -->
