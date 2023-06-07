@@ -8,7 +8,15 @@ Board is a 5 x 4 grid, 5 across and 4 down
 
 Each counter represents a player
 
-There are two t
+There are two types of events:
+Set piece
+Open play
+
+In open play, the player with the ball can make 1 of the following options:
+Move forward with ball in hand
+
+Pass ball to another player
+Kick the ball forward
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg0MzUwMjVdfQ==
+eyJoaXN0b3J5IjpbLTYxNjM4MTAwOF19
 -->
