@@ -14,9 +14,12 @@ Open play
 
 In open play, the player with the ball can make 1 of the following options:
 Move forward with ball in hand
-
+	Test
+	Possible outcomes
+		Retain 
+		Gain one space forward
 Pass ball to another player
 Kick the ball forward
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjM4MTAwOF19
+eyJoaXN0b3J5IjpbOTE5NzE2ODk3XX0=
 -->
