@@ -52,9 +52,9 @@ Kick: gain territory
 
 Alternative thought:
 
-Trick taking, trump suit is action
+Trick taking, trump suit is action, with each round targeting a goal based on a limited hand. All cards have all suits, but different values
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM3MDM0NTFdfQ==
+eyJoaXN0b3J5IjpbOTg0MTYyMTA0XX0=
 -->
