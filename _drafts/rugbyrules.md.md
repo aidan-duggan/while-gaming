@@ -16,10 +16,16 @@ In open play, the player with the ball can make 1 of the following options:
 Move forward with ball in hand
 	Test
 	Possible outcomes
-		Retain 
+		Retain the ball
 		Gain one space forward
+		Go back one space
+		lose the ball
 Pass ball to another player
+	Test
+	Possible outcomes
+	    Move ball to another player
+		
 Kick the ball forward
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5NzE2ODk3XX0=
+eyJoaXN0b3J5IjpbLTEyNzE4ODc2NzZdfQ==
 -->
