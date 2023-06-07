@@ -26,6 +26,11 @@ Pass ball to another player
 	    Move ball to another player
 		Lose the ball
 Kick the ball forward
+    Test
+    Possible outcomes
+	    Gain / loss the ball
+	    Gain X spaces
+	    Set piece - lineout 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTM3ODczM119
+eyJoaXN0b3J5IjpbLTUyOTc3ODE1OV19
 -->
