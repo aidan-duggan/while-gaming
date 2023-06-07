@@ -52,9 +52,11 @@ Kick play: gain territory
 
 Alternative thought:
 
-Trick taking, trump suit is action, with each round targeting a goal based on a limited hand. All cards have all suits, but different values. Draws favour the attacker. Need something to force symety 
+Trick taking, trump suit is action, with each round targeting a goal based on a limited hand. All cards have all suits, but different values. Draws favour the attacker. Need something to force symety.
+
+In trick taking the defending player doesn't usually have much choice. All cards having all suits would impact this. The defender should have less choice though!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzcxMDgxXX0=
+eyJoaXN0b3J5IjpbNjk0OTMzNDQ2XX0=
 -->
