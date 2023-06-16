@@ -11,6 +11,9 @@ layout: body
         <line><b style="font-size:18px;">Game: </b>{{ page.game }} </line>
         <line><b>Date:</b> {{ page.date | date: "%B %-d, %Y" }} </line>
         <line><b style="font-size:18px;">Impression: </b><i>{{ page.opinion }}</i> </line>
+        {% if page.thoughts %}
+        <line><b style="font-size:18px;">Design Thoughts: </b><i>{{ page.thoughts }}</i> </line>
+        {% endif %}
       </p>
     </div>
 
