@@ -14,7 +14,7 @@ layout: body
       <p>
         <line><a href="{{ game.url  | relative_url }}"><b style="font-size:18px;">Game: </b>{{ game.game }} </a></line>
         <line><b>Date:</b> {{ game.date | date: "%B %-d, %Y" }} </line>
-        <line><b style="font-size:18px;">Impression: </b><i>{{ game.opinion }}</i> </line>
+        <line><b style="font-size:18px;">Impression: </b>{{ game.opinion }} </line>
         {% if game.thoughts %}
         <line><b style="font-size:18px;">Design Thoughts: </b><i>{{ game.thoughts }}</i> </line>
         {% endif %}
